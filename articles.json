@@ -70,13 +70,6 @@
     "_date": "2025-01-01T13:00:00.000Z"
   },
   {
-    "title": "The fight to unionize Amazon’s warehouses",
-    "link": "https://www.theverge.com/2022/5/3/23056053/amazon-warehouse-union-organization-drives-latest-news",
-    "dateText": "Dec 16, 2024",
-    "datetime": "2024-12-16T16:11:59+00:00",
-    "_date": "2024-12-16T16:11:59.000Z"
-  },
-  {
     "title": "Crypto collapse: FTX’s fall is one piece of a long, cold, contagious crypto winter",
     "link": "https://www.theverge.com/2022/11/10/23450169/crypto-winter-ftx-binance-celsius-bitcoin",
     "dateText": "Nov 20, 2024",
@@ -124,13 +117,6 @@
     "dateText": "Sep 1, 2023",
     "datetime": "2023-09-01T22:39:46+00:00",
     "_date": "2023-09-01T22:39:46.000Z"
-  },
-  {
-    "title": "An upcoming 5G deadline could cause airline delays starting July 1st",
-    "link": "https://www.theverge.com/2023/6/25/23773181/faa-buttigieg-airlines-5g-interference-altimeter-upgrades",
-    "dateText": "Jun 25, 2023",
-    "datetime": "2023-06-25T18:47:57+00:00",
-    "_date": "2023-06-25T18:47:57.000Z"
   },
   {
     "title": "An upcoming 5G deadline could cause airline delays starting July 1st",
@@ -250,6 +236,13 @@
     "dateText": "Jan 9, 2023",
     "datetime": "2023-01-09T15:58:16+00:00",
     "_date": "2023-01-09T15:58:16.000Z"
+  },
+  {
+    "title": "Top AI conference bans use of ChatGPT and AI language tools to write academic papers",
+    "link": "https://www.theverge.com/2023/1/5/23540291/chatgpt-ai-writing-tool-banned-writing-academic-icml-paper",
+    "dateText": "Jan 5, 2023",
+    "datetime": "2023-01-05T17:04:46+00:00",
+    "_date": "2023-01-05T17:04:46.000Z"
   },
   {
     "title": "Top AI conference bans use of ChatGPT and AI language tools to write academic papers",
@@ -467,6 +460,13 @@
     "dateText": "Jan 6, 2022",
     "datetime": "2022-01-06T21:28:26+00:00",
     "_date": "2022-01-06T21:28:26.000Z"
+  },
+  {
+    "title": "Do you need a robot vacuum that can clean its own bottom?",
+    "link": "https://www.theverge.com/22870187/smart-home-gadget-ces-2022-roundup-samsung-wemo-eve",
+    "dateText": "Jan 6, 2022",
+    "datetime": "2022-01-06T17:50:25+00:00",
+    "_date": "2022-01-06T17:50:25.000Z"
   },
   {
     "title": "HP adds two new Dragonfly models to its business lineup",
