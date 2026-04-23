@@ -1,6 +1,10 @@
 {
+  "name": "verge-scraper",
+  "version": "1.0.0",
+  "scripts": {
+    "scrape": "node scrape.js"
+  },
   "dependencies": {
-    "cheerio": "^1.2.0",
     "puppeteer": "^24.42.0"
   }
 }
