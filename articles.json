@@ -70,6 +70,13 @@
     "_date": "2025-01-01T13:00:00.000Z"
   },
   {
+    "title": "The fight to unionize Amazon’s warehouses",
+    "link": "https://www.theverge.com/2022/5/3/23056053/amazon-warehouse-union-organization-drives-latest-news",
+    "dateText": "Dec 16, 2024",
+    "datetime": "2024-12-16T16:11:59+00:00",
+    "_date": "2024-12-16T16:11:59.000Z"
+  },
+  {
     "title": "Crypto collapse: FTX’s fall is one piece of a long, cold, contagious crypto winter",
     "link": "https://www.theverge.com/2022/11/10/23450169/crypto-winter-ftx-binance-celsius-bitcoin",
     "dateText": "Nov 20, 2024",
@@ -126,6 +133,13 @@
     "_date": "2023-06-25T18:47:57.000Z"
   },
   {
+    "title": "An upcoming 5G deadline could cause airline delays starting July 1st",
+    "link": "https://www.theverge.com/2023/6/25/23773181/faa-buttigieg-airlines-5g-interference-altimeter-upgrades",
+    "dateText": "Jun 25, 2023",
+    "datetime": "2023-06-25T18:47:57+00:00",
+    "_date": "2023-06-25T18:47:57.000Z"
+  },
+  {
     "title": "Monday’s top tech news: the chip war ramps up",
     "link": "https://www.theverge.com/2023/1/30/23577414/january-23-2022-tech-news-liveblog",
     "dateText": "Jan 31, 2023",
@@ -138,6 +152,13 @@
     "dateText": "Jan 27, 2023",
     "datetime": "2023-01-27T20:46:41+00:00",
     "_date": "2023-01-27T20:46:41.000Z"
+  },
+  {
+    "title": "Wednesday’s top tech news: Meta unbans Trump",
+    "link": "https://www.theverge.com/2023/1/25/23570612/january-25-2023-tech-news-liveblog",
+    "dateText": "Jan 27, 2023",
+    "datetime": "2023-01-27T01:48:50+00:00",
+    "_date": "2023-01-27T01:48:50.000Z"
   },
   {
     "title": "BuzzFeed says it will use AI tools from OpenAI to personalize its content",
@@ -236,13 +257,6 @@
     "dateText": "Jan 9, 2023",
     "datetime": "2023-01-09T15:58:16+00:00",
     "_date": "2023-01-09T15:58:16.000Z"
-  },
-  {
-    "title": "Top AI conference bans use of ChatGPT and AI language tools to write academic papers",
-    "link": "https://www.theverge.com/2023/1/5/23540291/chatgpt-ai-writing-tool-banned-writing-academic-icml-paper",
-    "dateText": "Jan 5, 2023",
-    "datetime": "2023-01-05T17:04:46+00:00",
-    "_date": "2023-01-05T17:04:46.000Z"
   },
   {
     "title": "Top AI conference bans use of ChatGPT and AI language tools to write academic papers",
@@ -462,13 +476,6 @@
     "_date": "2022-01-06T21:28:26.000Z"
   },
   {
-    "title": "Do you need a robot vacuum that can clean its own bottom?",
-    "link": "https://www.theverge.com/22870187/smart-home-gadget-ces-2022-roundup-samsung-wemo-eve",
-    "dateText": "Jan 6, 2022",
-    "datetime": "2022-01-06T17:50:25+00:00",
-    "_date": "2022-01-06T17:50:25.000Z"
-  },
-  {
     "title": "HP adds two new Dragonfly models to its business lineup",
     "link": "https://www.theverge.com/2022/1/4/22866703/hp-elite-dragonfly-g3-chromebook-enterprise-laptops",
     "dateText": "Jan 6, 2022",
@@ -481,13 +488,6 @@
     "dateText": "Jan 6, 2022",
     "datetime": "2022-01-06T12:30:00+00:00",
     "_date": "2022-01-06T12:30:00.000Z"
-  },
-  {
-    "title": "Drone carrying a defibrillator saves its first cardiac arrest patient in Sweden",
-    "link": "https://www.theverge.com/2022/1/5/22868777/everdrone-drone-defibrillator-health-tech-sweden",
-    "dateText": "Jan 5, 2022",
-    "datetime": "2022-01-05T20:40:47+00:00",
-    "_date": "2022-01-05T20:40:47.000Z"
   },
   {
     "title": "The Motorola MA1 is a dongle for wireless Android Auto",
