@@ -7,13 +7,6 @@
     "_date": "2026-04-17T14:00:00.000Z"
   },
   {
-    "title": "The tech industry’s layoffs and hiring freezes: all of the news",
-    "link": "https://www.theverge.com/2022/11/14/23458204/meta-twitter-amazon-apple-layoffs-hiring-freezes-latest-tech-industry",
-    "dateText": "Mar 14",
-    "datetime": "2026-03-14T18:48:56+00:00",
-    "_date": "2026-03-14T18:48:56.000Z"
-  },
-  {
     "title": "All the news about EV charging in the US",
     "link": "https://www.theverge.com/23758095/electric-vehicle-charging-news-nacs-ccs-tesla-supercharger-us-infrastructure",
     "dateText": "Feb 23",
@@ -26,6 +19,13 @@
     "dateText": "Jan 21",
     "datetime": "2026-01-21T23:00:00+00:00",
     "_date": "2026-01-21T23:00:00.000Z"
+  },
+  {
+    "title": "Gemini is winning",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner",
+    "dateText": "Jan 14",
+    "datetime": "2026-01-14T18:16:39+00:00",
+    "_date": "2026-01-14T18:16:39.000Z"
   },
   {
     "title": "Every trick Microsoft pulled to make you browse Edge instead of Chrome",
@@ -49,13 +49,6 @@
     "_date": "2025-01-27T23:34:12.000Z"
   },
   {
-    "title": "FBI’s warrantless ‘backdoor’ searches ruled unconstitutional",
-    "link": "https://www.theverge.com/2025/1/27/24353289/fbi-warrantless-backdoor-searches-unconstitutional-ruling",
-    "dateText": "Jan 27, 2025",
-    "datetime": "2025-01-27T23:34:12+00:00",
-    "_date": "2025-01-27T23:34:12.000Z"
-  },
-  {
     "title": "Netflix won the streaming wars, and we’re all about to pay for it",
     "link": "https://www.theverge.com/2025/1/26/24351302/netflix-price-increase-streaming-wars",
     "dateText": "Jan 26, 2025",
@@ -68,6 +61,13 @@
     "dateText": "Jan 21, 2025",
     "datetime": "2025-01-21T21:13:37+00:00",
     "_date": "2025-01-21T21:13:37.000Z"
+  },
+  {
+    "title": "Is Sleep’s Dopesmoker still the heaviest album of all time?",
+    "link": "https://www.theverge.com/2025/1/1/24333190/heavier-than-dopesmoker",
+    "dateText": "Jan 1, 2025",
+    "datetime": "2025-01-01T13:00:00+00:00",
+    "_date": "2025-01-01T13:00:00.000Z"
   },
   {
     "title": "The fight to unionize Amazon’s warehouses",
@@ -91,11 +91,11 @@
     "_date": "2024-02-15T20:00:00.000Z"
   },
   {
-    "title": "Microsoft’s gaming revenues overtake Windows thanks to Activision Blizzard",
-    "link": "https://www.theverge.com/2024/1/30/24055445/microsoft-q2-2024-earnings-revenue-profits-windows-xbox-gaming-surface",
-    "dateText": "Jan 30, 2024",
-    "datetime": "2024-01-30T21:06:12+00:00",
-    "_date": "2024-01-30T21:06:12.000Z"
+    "title": "Microsoft lays off 1,900 Activision Blizzard and Xbox employees",
+    "link": "https://www.theverge.com/2024/1/25/24049050/microsoft-activision-blizzard-layoffs",
+    "dateText": "Jan 25, 2024",
+    "datetime": "2024-01-25T14:16:49+00:00",
+    "_date": "2024-01-25T14:16:49.000Z"
   },
   {
     "title": "Microsoft lays off 1,900 Activision Blizzard and Xbox employees",
@@ -133,13 +133,6 @@
     "_date": "2023-06-25T18:47:57.000Z"
   },
   {
-    "title": "An upcoming 5G deadline could cause airline delays starting July 1st",
-    "link": "https://www.theverge.com/2023/6/25/23773181/faa-buttigieg-airlines-5g-interference-altimeter-upgrades",
-    "dateText": "Jun 25, 2023",
-    "datetime": "2023-06-25T18:47:57+00:00",
-    "_date": "2023-06-25T18:47:57.000Z"
-  },
-  {
     "title": "Monday’s top tech news: the chip war ramps up",
     "link": "https://www.theverge.com/2023/1/30/23577414/january-23-2022-tech-news-liveblog",
     "dateText": "Jan 31, 2023",
@@ -152,6 +145,13 @@
     "dateText": "Jan 27, 2023",
     "datetime": "2023-01-27T20:46:41+00:00",
     "_date": "2023-01-27T20:46:41.000Z"
+  },
+  {
+    "title": "Wednesday’s top tech news: Meta unbans Trump",
+    "link": "https://www.theverge.com/2023/1/25/23570612/january-25-2023-tech-news-liveblog",
+    "dateText": "Jan 27, 2023",
+    "datetime": "2023-01-27T01:48:50+00:00",
+    "_date": "2023-01-27T01:48:50.000Z"
   },
   {
     "title": "BuzzFeed says it will use AI tools from OpenAI to personalize its content",
@@ -259,6 +259,13 @@
     "_date": "2023-01-09T15:58:16.000Z"
   },
   {
+    "title": "Top AI conference bans use of ChatGPT and AI language tools to write academic papers",
+    "link": "https://www.theverge.com/2023/1/5/23540291/chatgpt-ai-writing-tool-banned-writing-academic-icml-paper",
+    "dateText": "Jan 5, 2023",
+    "datetime": "2023-01-05T17:04:46+00:00",
+    "_date": "2023-01-05T17:04:46.000Z"
+  },
+  {
     "title": "The EV tax credit rules are being delayed until March 2023 — here’s what that means for you",
     "link": "https://www.theverge.com/2022/12/20/23519701/ev-tax-credit-delay-treasury-gm-tesla",
     "dateText": "Dec 20, 2022",
@@ -308,6 +315,13 @@
     "_date": "2022-09-29T16:15:00.000Z"
   },
   {
+    "title": "EV prices are going in the wrong direction",
+    "link": "https://www.theverge.com/2022/8/24/23319794/ev-price-increase-used-cars-analysis-iseecars",
+    "dateText": "Aug 24, 2022",
+    "datetime": "2022-08-24T15:07:50+00:00",
+    "_date": "2022-08-24T15:07:50.000Z"
+  },
+  {
     "title": "Electric vehicle owners are fed up with broken EV chargers and janky software",
     "link": "https://www.theverge.com/2022/8/17/23308612/ev-charging-broken-unreliable-survey-jd-power",
     "dateText": "Aug 17, 2022",
@@ -334,6 +348,13 @@
     "dateText": "Apr 28, 2022",
     "datetime": "2022-04-28T17:00:00+00:00",
     "_date": "2022-04-28T17:00:00.000Z"
+  },
+  {
+    "title": "I’m done with Wyze",
+    "link": "https://www.theverge.com/23003418/wyze-cam-v1-vulnerability-no-patch-bitdefender-responsible-disclosure",
+    "dateText": "Mar 30, 2022",
+    "datetime": "2022-03-30T23:13:23+00:00",
+    "_date": "2022-03-30T23:13:23.000Z"
   },
   {
     "title": "Public accountants are deducting themselves from their jobs",
@@ -420,13 +441,6 @@
     "_date": "2022-01-19T15:00:00.000Z"
   },
   {
-    "title": "Yellowjackets’ first season is a collective fever dream",
-    "link": "https://www.theverge.com/22891108/yellowjackets-season-1-teen-survival-showtime",
-    "dateText": "Jan 19, 2022",
-    "datetime": "2022-01-19T15:00:00+00:00",
-    "_date": "2022-01-19T15:00:00.000Z"
-  },
-  {
     "title": "Microsoft to acquire Activision Blizzard for $68.7 billion",
     "link": "https://www.theverge.com/2022/1/18/22889258/microsoft-activision-blizzard-xbox-acquisition-call-of-duty-overwatch",
     "dateText": "Jan 18, 2022",
@@ -490,11 +504,11 @@
     "_date": "2022-01-06T18:58:16.000Z"
   },
   {
-    "title": "HP adds two new Dragonfly models to its business lineup",
-    "link": "https://www.theverge.com/2022/1/4/22866703/hp-elite-dragonfly-g3-chromebook-enterprise-laptops",
+    "title": "Do you need a robot vacuum that can clean its own bottom?",
+    "link": "https://www.theverge.com/22870187/smart-home-gadget-ces-2022-roundup-samsung-wemo-eve",
     "dateText": "Jan 6, 2022",
-    "datetime": "2022-01-06T16:23:02+00:00",
-    "_date": "2022-01-06T16:23:02.000Z"
+    "datetime": "2022-01-06T17:50:25+00:00",
+    "_date": "2022-01-06T17:50:25.000Z"
   },
   {
     "title": "HP adds two new Dragonfly models to its business lineup",
@@ -537,27 +551,6 @@
     "dateText": "Jan 5, 2022",
     "datetime": "2022-01-05T15:23:53+00:00",
     "_date": "2022-01-05T15:23:53.000Z"
-  },
-  {
-    "title": "Samsung’s tiny Freestyle projector is fun so get over it",
-    "link": "https://www.theverge.com/2022/1/4/22865673/samsung-freestyle-portable-lifestyle-projector-not-olds",
-    "dateText": "Jan 5, 2022",
-    "datetime": "2022-01-05T02:30:00+00:00",
-    "_date": "2022-01-05T02:30:00.000Z"
-  },
-  {
-    "title": "Samsung’s tiny Freestyle projector is fun so get over it",
-    "link": "https://www.theverge.com/2022/1/4/22865673/samsung-freestyle-portable-lifestyle-projector-not-olds",
-    "dateText": "Jan 5, 2022",
-    "datetime": "2022-01-05T02:30:00+00:00",
-    "_date": "2022-01-05T02:30:00.000Z"
-  },
-  {
-    "title": "Sony is joining the Mini LED TV bandwagon in 2022",
-    "link": "https://www.theverge.com/2022/1/4/22866348/sony-bravia-xr-x90k-x95k-led-tv-features-specs",
-    "dateText": "Jan 4, 2022",
-    "datetime": "2022-01-04T15:00:00+00:00",
-    "_date": "2022-01-04T15:00:00.000Z"
   },
   {
     "title": "Sony is joining the Mini LED TV bandwagon in 2022",
