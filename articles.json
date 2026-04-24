@@ -7,6 +7,20 @@
     "_date": "2026-04-17T14:00:00.000Z"
   },
   {
+    "title": "The tech industry’s layoffs and hiring freezes: all of the news",
+    "link": "https://www.theverge.com/2022/11/14/23458204/meta-twitter-amazon-apple-layoffs-hiring-freezes-latest-tech-industry",
+    "dateText": "Mar 14",
+    "datetime": "2026-03-14T18:48:56+00:00",
+    "_date": "2026-03-14T18:48:56.000Z"
+  },
+  {
+    "title": "The tech industry’s layoffs and hiring freezes: all of the news",
+    "link": "https://www.theverge.com/2022/11/14/23458204/meta-twitter-amazon-apple-layoffs-hiring-freezes-latest-tech-industry",
+    "dateText": "Mar 14",
+    "datetime": "2026-03-14T18:48:56+00:00",
+    "_date": "2026-03-14T18:48:56.000Z"
+  },
+  {
     "title": "All the news about EV charging in the US",
     "link": "https://www.theverge.com/23758095/electric-vehicle-charging-news-nacs-ccs-tesla-supercharger-us-infrastructure",
     "dateText": "Feb 23",
@@ -61,13 +75,6 @@
     "dateText": "Jan 21, 2025",
     "datetime": "2025-01-21T21:13:37+00:00",
     "_date": "2025-01-21T21:13:37.000Z"
-  },
-  {
-    "title": "Is Sleep’s Dopesmoker still the heaviest album of all time?",
-    "link": "https://www.theverge.com/2025/1/1/24333190/heavier-than-dopesmoker",
-    "dateText": "Jan 1, 2025",
-    "datetime": "2025-01-01T13:00:00+00:00",
-    "_date": "2025-01-01T13:00:00.000Z"
   },
   {
     "title": "Is Sleep’s Dopesmoker still the heaviest album of all time?",
@@ -196,13 +203,6 @@
     "_date": "2023-01-20T15:07:02.000Z"
   },
   {
-    "title": "Amazon is closing its AmazonSmile charity platform",
-    "link": "https://www.theverge.com/2023/1/19/23562036/amazon-closing-amazonsmile-charity-platform-announcement",
-    "dateText": "Jan 19, 2023",
-    "datetime": "2023-01-19T09:54:59+00:00",
-    "_date": "2023-01-19T09:54:59.000Z"
-  },
-  {
     "title": "Wednesday’s top tech news: layoffs come for Microsoft",
     "link": "https://www.theverge.com/2023/1/18/23560290/january-18-2023-tech-news-liveblog",
     "dateText": "Jan 18, 2023",
@@ -294,6 +294,13 @@
     "_date": "2022-11-21T13:00:00.000Z"
   },
   {
+    "title": "The scary truth about AI copyright is nobody knows what will happen next",
+    "link": "https://www.theverge.com/23444685/generative-ai-copyright-infringement-legal-fair-use-training-data",
+    "dateText": "Nov 15, 2022",
+    "datetime": "2022-11-15T15:00:00+00:00",
+    "_date": "2022-11-15T15:00:00.000Z"
+  },
+  {
     "title": "Phil Spencer really wants you to know that native Call of Duty will stay on PlayStation",
     "link": "https://www.theverge.com/23459189/phil-spencer-microsoft-activision-call-of-duty-xbox-playstation-candy-crush-apple-fortnite-vr",
     "dateText": "Nov 15, 2022",
@@ -320,13 +327,6 @@
     "dateText": "Aug 17, 2022",
     "datetime": "2022-08-17T12:00:00+00:00",
     "_date": "2022-08-17T12:00:00.000Z"
-  },
-  {
-    "title": "Xbox and Windows fall in Microsoft’s $51.9 billion quarter",
-    "link": "https://www.theverge.com/2022/7/26/23278933/microsoft-q4-2022-earnings-revenue-cloud-windows-xbox-gaming-surface",
-    "dateText": "Jul 26, 2022",
-    "datetime": "2022-07-26T20:13:43+00:00",
-    "_date": "2022-07-26T20:13:43.000Z"
   },
   {
     "title": "Microsoft prepares to forget about Windows 8.1 with end of support notifications",
@@ -434,13 +434,6 @@
     "_date": "2022-01-20T16:59:59.000Z"
   },
   {
-    "title": "AMD hides its claim that 4GB of VRAM is “not enough” just as it launches a 4GB GPU",
-    "link": "https://www.theverge.com/2022/1/19/22891092/amd-4g-vram-claim-gpu-launch-rx-6500-xt",
-    "dateText": "Jan 19, 2022",
-    "datetime": "2022-01-19T17:16:30+00:00",
-    "_date": "2022-01-19T17:16:30.000Z"
-  },
-  {
     "title": "Yellowjackets’ first season is a collective fever dream",
     "link": "https://www.theverge.com/22891108/yellowjackets-season-1-teen-survival-showtime",
     "dateText": "Jan 19, 2022",
@@ -511,11 +504,11 @@
     "_date": "2022-01-06T18:58:16.000Z"
   },
   {
-    "title": "Do you need a robot vacuum that can clean its own bottom?",
-    "link": "https://www.theverge.com/22870187/smart-home-gadget-ces-2022-roundup-samsung-wemo-eve",
+    "title": "NPR’s losing top talent — everyone has a theory why",
+    "link": "https://www.theverge.com/2022/1/6/22870634/npr-audie-cornish-all-things-considered-host-departures",
     "dateText": "Jan 6, 2022",
-    "datetime": "2022-01-06T17:50:25+00:00",
-    "_date": "2022-01-06T17:50:25.000Z"
+    "datetime": "2022-01-06T18:58:16+00:00",
+    "_date": "2022-01-06T18:58:16.000Z"
   },
   {
     "title": "HP adds two new Dragonfly models to its business lineup",
@@ -558,13 +551,6 @@
     "dateText": "Jan 5, 2022",
     "datetime": "2022-01-05T15:23:53+00:00",
     "_date": "2022-01-05T15:23:53.000Z"
-  },
-  {
-    "title": "Samsung’s tiny Freestyle projector is fun so get over it",
-    "link": "https://www.theverge.com/2022/1/4/22865673/samsung-freestyle-portable-lifestyle-projector-not-olds",
-    "dateText": "Jan 5, 2022",
-    "datetime": "2022-01-05T02:30:00+00:00",
-    "_date": "2022-01-05T02:30:00.000Z"
   },
   {
     "title": "Sony is joining the Mini LED TV bandwagon in 2022",
