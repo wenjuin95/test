@@ -7,6 +7,13 @@
     "_date": "2026-04-17T14:00:00.000Z"
   },
   {
+    "title": "The Peloton story: everything you need to know",
+    "link": "https://www.theverge.com/24025034/peloton-bike-treadmill-connected-fitness-news",
+    "dateText": "Apr 17",
+    "datetime": "2026-04-17T14:00:00+00:00",
+    "_date": "2026-04-17T14:00:00.000Z"
+  },
+  {
     "title": "The tech industry’s layoffs and hiring freezes: all of the news",
     "link": "https://www.theverge.com/2022/11/14/23458204/meta-twitter-amazon-apple-layoffs-hiring-freezes-latest-tech-industry",
     "dateText": "Mar 14",
@@ -91,13 +98,6 @@
     "_date": "2024-11-20T16:32:40.000Z"
   },
   {
-    "title": "Microsoft’s Xbox Game Pass service grows to 34 million subscribers",
-    "link": "https://www.theverge.com/2024/2/15/23570040/microsoft-xbox-game-pass-subscriber-numbers-34-million",
-    "dateText": "Feb 15, 2024",
-    "datetime": "2024-02-15T20:00:00+00:00",
-    "_date": "2024-02-15T20:00:00.000Z"
-  },
-  {
     "title": "Microsoft’s gaming revenues overtake Windows thanks to Activision Blizzard",
     "link": "https://www.theverge.com/2024/1/30/24055445/microsoft-q2-2024-earnings-revenue-profits-windows-xbox-gaming-surface",
     "dateText": "Jan 30, 2024",
@@ -131,6 +131,13 @@
     "dateText": "Sep 1, 2023",
     "datetime": "2023-09-01T22:39:46+00:00",
     "_date": "2023-09-01T22:39:46.000Z"
+  },
+  {
+    "title": "An upcoming 5G deadline could cause airline delays starting July 1st",
+    "link": "https://www.theverge.com/2023/6/25/23773181/faa-buttigieg-airlines-5g-interference-altimeter-upgrades",
+    "dateText": "Jun 25, 2023",
+    "datetime": "2023-06-25T18:47:57+00:00",
+    "_date": "2023-06-25T18:47:57.000Z"
   },
   {
     "title": "Monday’s top tech news: the chip war ramps up",
@@ -301,6 +308,20 @@
     "_date": "2022-11-15T14:41:25.000Z"
   },
   {
+    "title": "Twitter is planning to start charging soon for verification",
+    "link": "https://www.theverge.com/2022/10/30/23431931/twitter-paid-verification-elon-musk-blue-monthly-subscription",
+    "dateText": "Oct 31, 2022",
+    "datetime": "2022-10-31T00:52:51+00:00",
+    "_date": "2022-10-31T00:52:51.000Z"
+  },
+  {
+    "title": "Louisiana kicks off one of the US’s biggest carbon capture projects yet",
+    "link": "https://www.theverge.com/2022/10/14/23404296/louisiana-carbon-capture-project-ammonia-fertilizer-cf-industries-exxon-mobil",
+    "dateText": "Oct 14, 2022",
+    "datetime": "2022-10-14T17:44:04+00:00",
+    "_date": "2022-10-14T17:44:04.000Z"
+  },
+  {
     "title": "Louisiana kicks off one of the US’s biggest carbon capture projects yet",
     "link": "https://www.theverge.com/2022/10/14/23404296/louisiana-carbon-capture-project-ammonia-fertilizer-cf-industries-exxon-mobil",
     "dateText": "Oct 14, 2022",
@@ -364,6 +385,13 @@
     "_date": "2022-01-29T00:07:36.000Z"
   },
   {
+    "title": "US lawmakers probe into crypto mining companies’ energy use",
+    "link": "https://www.theverge.com/2022/1/28/22906334/us-lawmakers-letter-cryptocurrency-mining-bitcoin-energy",
+    "dateText": "Jan 28, 2022",
+    "datetime": "2022-01-28T18:47:41+00:00",
+    "_date": "2022-01-28T18:47:41.000Z"
+  },
+  {
     "title": "Discord recovers from two-hour outage",
     "link": "https://www.theverge.com/2022/1/26/22903170/discord-down-outage-problems",
     "dateText": "Jan 26, 2022",
@@ -399,13 +427,6 @@
     "_date": "2022-01-25T13:00:00.000Z"
   },
   {
-    "title": "Meta has built an AI supercomputer it says will be world’s fastest by end of 2022",
-    "link": "https://www.theverge.com/2022/1/24/22898651/meta-artificial-intelligence-ai-supercomputer-rsc-2022",
-    "dateText": "Jan 24, 2022",
-    "datetime": "2022-01-24T17:00:00+00:00",
-    "_date": "2022-01-24T17:00:00.000Z"
-  },
-  {
     "title": "Digital cash gets a look from the Fed",
     "link": "https://www.theverge.com/2022/1/21/22894101/federal-reserve-us-government-digital-dollar-central-bank-currency",
     "dateText": "Jan 22, 2022",
@@ -425,13 +446,6 @@
     "dateText": "Jan 20, 2022",
     "datetime": "2022-01-20T16:59:59+00:00",
     "_date": "2022-01-20T16:59:59.000Z"
-  },
-  {
-    "title": "AMD hides its claim that 4GB of VRAM is “not enough” just as it launches a 4GB GPU",
-    "link": "https://www.theverge.com/2022/1/19/22891092/amd-4g-vram-claim-gpu-launch-rx-6500-xt",
-    "dateText": "Jan 19, 2022",
-    "datetime": "2022-01-19T17:16:30+00:00",
-    "_date": "2022-01-19T17:16:30.000Z"
   },
   {
     "title": "Yellowjackets’ first season is a collective fever dream",
@@ -481,13 +495,6 @@
     "dateText": "Jan 9, 2022",
     "datetime": "2022-01-09T20:58:41+00:00",
     "_date": "2022-01-09T20:58:41.000Z"
-  },
-  {
-    "title": "Discord hacking is the newest threat for NFT buyers",
-    "link": "https://www.theverge.com/2022/1/7/22870912/nft-communities-boom-discord-hackers-cryptocurrency-webhooks",
-    "dateText": "Jan 7, 2022",
-    "datetime": "2022-01-07T13:00:00+00:00",
-    "_date": "2022-01-07T13:00:00.000Z"
   },
   {
     "title": "Mozilla pauses accepting crypto donations following backlash",
