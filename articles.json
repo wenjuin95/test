@@ -1,5 +1,19 @@
 [
   {
+    "title": "The Peloton story: everything you need to know",
+    "link": "https://www.theverge.com/24025034/peloton-bike-treadmill-connected-fitness-news",
+    "dateText": "Apr 17",
+    "datetime": "2026-04-17T14:00:00+00:00",
+    "_date": "2026-04-17T14:00:00.000Z"
+  },
+  {
+    "title": "The Peloton story: everything you need to know",
+    "link": "https://www.theverge.com/24025034/peloton-bike-treadmill-connected-fitness-news",
+    "dateText": "Apr 17",
+    "datetime": "2026-04-17T14:00:00+00:00",
+    "_date": "2026-04-17T14:00:00.000Z"
+  },
+  {
     "title": "The tech industry’s layoffs and hiring freezes: all of the news",
     "link": "https://www.theverge.com/2022/11/14/23458204/meta-twitter-amazon-apple-layoffs-hiring-freezes-latest-tech-industry",
     "dateText": "Mar 14",
@@ -12,13 +26,6 @@
     "dateText": "Feb 23",
     "datetime": "2026-02-23T15:54:06+00:00",
     "_date": "2026-02-23T15:54:06.000Z"
-  },
-  {
-    "title": "Here are the best Kindle deals right now",
-    "link": "https://www.theverge.com/21539047/best-amazon-kindle-deals",
-    "dateText": "Jan 21",
-    "datetime": "2026-01-21T23:00:00+00:00",
-    "_date": "2026-01-21T23:00:00.000Z"
   },
   {
     "title": "Gemini is winning",
@@ -40,6 +47,13 @@
     "dateText": "Nov 16, 2025",
     "datetime": "2025-11-16T16:29:46+00:00",
     "_date": "2025-11-16T16:29:46.000Z"
+  },
+  {
+    "title": "FBI’s warrantless ‘backdoor’ searches ruled unconstitutional",
+    "link": "https://www.theverge.com/2025/1/27/24353289/fbi-warrantless-backdoor-searches-unconstitutional-ruling",
+    "dateText": "Jan 27, 2025",
+    "datetime": "2025-01-27T23:34:12+00:00",
+    "_date": "2025-01-27T23:34:12.000Z"
   },
   {
     "title": "FBI’s warrantless ‘backdoor’ searches ruled unconstitutional",
@@ -315,6 +329,13 @@
     "_date": "2022-10-14T17:44:04.000Z"
   },
   {
+    "title": "Louisiana kicks off one of the US’s biggest carbon capture projects yet",
+    "link": "https://www.theverge.com/2022/10/14/23404296/louisiana-carbon-capture-project-ammonia-fertilizer-cf-industries-exxon-mobil",
+    "dateText": "Oct 14, 2022",
+    "datetime": "2022-10-14T17:44:04+00:00",
+    "_date": "2022-10-14T17:44:04.000Z"
+  },
+  {
     "title": "Google is shutting down Stadia",
     "link": "https://www.theverge.com/2022/9/29/23378713/google-stadia-shutting-down-game-streaming-january-2023",
     "dateText": "Sep 29, 2022",
@@ -343,25 +364,11 @@
     "_date": "2022-06-24T09:15:04.000Z"
   },
   {
-    "title": "Crypto is winning, and Bitcoin diehards are furious about it",
-    "link": "https://www.theverge.com/2022/4/28/23042819/bitcoin-2022-miami-beach-conference-maxis",
-    "dateText": "Apr 28, 2022",
-    "datetime": "2022-04-28T17:00:00+00:00",
-    "_date": "2022-04-28T17:00:00.000Z"
-  },
-  {
     "title": "I’m done with Wyze",
     "link": "https://www.theverge.com/23003418/wyze-cam-v1-vulnerability-no-patch-bitdefender-responsible-disclosure",
     "dateText": "Mar 30, 2022",
     "datetime": "2022-03-30T23:13:23+00:00",
     "_date": "2022-03-30T23:13:23.000Z"
-  },
-  {
-    "title": "AirTags are dangerous — here’s how Apple could fix them",
-    "link": "https://www.theverge.com/2022/3/1/22947917/airtags-privacy-security-stalking-solutions",
-    "dateText": "Mar 1, 2022",
-    "datetime": "2022-03-01T16:30:00+00:00",
-    "_date": "2022-03-01T16:30:00.000Z"
   },
   {
     "title": "Public accountants are deducting themselves from their jobs",
@@ -448,13 +455,6 @@
     "_date": "2022-01-19T15:00:00.000Z"
   },
   {
-    "title": "Yellowjackets’ first season is a collective fever dream",
-    "link": "https://www.theverge.com/22891108/yellowjackets-season-1-teen-survival-showtime",
-    "dateText": "Jan 19, 2022",
-    "datetime": "2022-01-19T15:00:00+00:00",
-    "_date": "2022-01-19T15:00:00.000Z"
-  },
-  {
     "title": "Microsoft to acquire Activision Blizzard for $68.7 billion",
     "link": "https://www.theverge.com/2022/1/18/22889258/microsoft-activision-blizzard-xbox-acquisition-call-of-duty-overwatch",
     "dateText": "Jan 18, 2022",
@@ -490,32 +490,18 @@
     "_date": "2022-01-10T23:59:39.000Z"
   },
   {
-    "title": "Open source developer corrupts widely-used libraries, affecting tons of projects",
-    "link": "https://www.theverge.com/2022/1/9/22874949/developer-corrupts-open-source-libraries-projects-affected",
-    "dateText": "Jan 9, 2022",
-    "datetime": "2022-01-09T20:58:41+00:00",
-    "_date": "2022-01-09T20:58:41.000Z"
-  },
-  {
-    "title": "Open source developer corrupts widely-used libraries, affecting tons of projects",
-    "link": "https://www.theverge.com/2022/1/9/22874949/developer-corrupts-open-source-libraries-projects-affected",
-    "dateText": "Jan 9, 2022",
-    "datetime": "2022-01-09T20:58:41+00:00",
-    "_date": "2022-01-09T20:58:41.000Z"
-  },
-  {
-    "title": "Discord hacking is the newest threat for NFT buyers",
-    "link": "https://www.theverge.com/2022/1/7/22870912/nft-communities-boom-discord-hackers-cryptocurrency-webhooks",
-    "dateText": "Jan 7, 2022",
-    "datetime": "2022-01-07T13:00:00+00:00",
-    "_date": "2022-01-07T13:00:00.000Z"
-  },
-  {
     "title": "Mozilla pauses accepting crypto donations following backlash",
     "link": "https://www.theverge.com/2022/1/6/22870787/mozilla-pauses-crypto-donations-backlash-jwz",
     "dateText": "Jan 6, 2022",
     "datetime": "2022-01-06T21:28:26+00:00",
     "_date": "2022-01-06T21:28:26.000Z"
+  },
+  {
+    "title": "NPR’s losing top talent — everyone has a theory why",
+    "link": "https://www.theverge.com/2022/1/6/22870634/npr-audie-cornish-all-things-considered-host-departures",
+    "dateText": "Jan 6, 2022",
+    "datetime": "2022-01-06T18:58:16+00:00",
+    "_date": "2022-01-06T18:58:16.000Z"
   },
   {
     "title": "NPR’s losing top talent — everyone has a theory why",
