@@ -189,13 +189,6 @@
     "_date": "2023-01-20T15:07:02.000Z"
   },
   {
-    "title": "37 million accounts hacked in latest T-Mobile data breach",
-    "link": "https://www.theverge.com/2023/1/20/23563825/tmobile-data-breach-api-customer-accounts-hacker-security",
-    "dateText": "Jan 20, 2023",
-    "datetime": "2023-01-20T15:07:02+00:00",
-    "_date": "2023-01-20T15:07:02.000Z"
-  },
-  {
     "title": "Amazon is closing its AmazonSmile charity platform",
     "link": "https://www.theverge.com/2023/1/19/23562036/amazon-closing-amazonsmile-charity-platform-announcement",
     "dateText": "Jan 19, 2023",
@@ -229,6 +222,13 @@
     "dateText": "Jan 17, 2023",
     "datetime": "2023-01-17T11:00:00+00:00",
     "_date": "2023-01-17T11:00:00.000Z"
+  },
+  {
+    "title": "Friday’s top tech news: unexpected price cuts at Tesla",
+    "link": "https://www.theverge.com/2023/1/13/23553314/january-13-2023-tech-news-liveblog",
+    "dateText": "Jan 14, 2023",
+    "datetime": "2023-01-14T04:27:07+00:00",
+    "_date": "2023-01-14T04:27:07.000Z"
   },
   {
     "title": "Meta sues company using fake Facebook accounts to scrape data",
@@ -287,13 +287,6 @@
     "_date": "2022-11-21T13:00:00.000Z"
   },
   {
-    "title": "Continuous glucose monitor startups still have to prove their worth",
-    "link": "https://www.theverge.com/c/23440723/glucose-monitor-wellness-diet-diabetes-startups",
-    "dateText": "Nov 21, 2022",
-    "datetime": "2022-11-21T13:00:00+00:00",
-    "_date": "2022-11-21T13:00:00.000Z"
-  },
-  {
     "title": "The scary truth about AI copyright is nobody knows what will happen next",
     "link": "https://www.theverge.com/23444685/generative-ai-copyright-infringement-legal-fair-use-training-data",
     "dateText": "Nov 15, 2022",
@@ -313,13 +306,6 @@
     "dateText": "Oct 31, 2022",
     "datetime": "2022-10-31T00:52:51+00:00",
     "_date": "2022-10-31T00:52:51.000Z"
-  },
-  {
-    "title": "Louisiana kicks off one of the US’s biggest carbon capture projects yet",
-    "link": "https://www.theverge.com/2022/10/14/23404296/louisiana-carbon-capture-project-ammonia-fertilizer-cf-industries-exxon-mobil",
-    "dateText": "Oct 14, 2022",
-    "datetime": "2022-10-14T17:44:04+00:00",
-    "_date": "2022-10-14T17:44:04.000Z"
   },
   {
     "title": "Louisiana kicks off one of the US’s biggest carbon capture projects yet",
@@ -355,6 +341,20 @@
     "dateText": "Jun 24, 2022",
     "datetime": "2022-06-24T09:15:04+00:00",
     "_date": "2022-06-24T09:15:04.000Z"
+  },
+  {
+    "title": "Crypto is winning, and Bitcoin diehards are furious about it",
+    "link": "https://www.theverge.com/2022/4/28/23042819/bitcoin-2022-miami-beach-conference-maxis",
+    "dateText": "Apr 28, 2022",
+    "datetime": "2022-04-28T17:00:00+00:00",
+    "_date": "2022-04-28T17:00:00.000Z"
+  },
+  {
+    "title": "I’m done with Wyze",
+    "link": "https://www.theverge.com/23003418/wyze-cam-v1-vulnerability-no-patch-bitdefender-responsible-disclosure",
+    "dateText": "Mar 30, 2022",
+    "datetime": "2022-03-30T23:13:23+00:00",
+    "_date": "2022-03-30T23:13:23.000Z"
   },
   {
     "title": "AirTags are dangerous — here’s how Apple could fix them",
@@ -448,6 +448,13 @@
     "_date": "2022-01-19T15:00:00.000Z"
   },
   {
+    "title": "Yellowjackets’ first season is a collective fever dream",
+    "link": "https://www.theverge.com/22891108/yellowjackets-season-1-teen-survival-showtime",
+    "dateText": "Jan 19, 2022",
+    "datetime": "2022-01-19T15:00:00+00:00",
+    "_date": "2022-01-19T15:00:00.000Z"
+  },
+  {
     "title": "Microsoft to acquire Activision Blizzard for $68.7 billion",
     "link": "https://www.theverge.com/2022/1/18/22889258/microsoft-activision-blizzard-xbox-acquisition-call-of-duty-overwatch",
     "dateText": "Jan 18, 2022",
@@ -490,6 +497,13 @@
     "_date": "2022-01-09T20:58:41.000Z"
   },
   {
+    "title": "Open source developer corrupts widely-used libraries, affecting tons of projects",
+    "link": "https://www.theverge.com/2022/1/9/22874949/developer-corrupts-open-source-libraries-projects-affected",
+    "dateText": "Jan 9, 2022",
+    "datetime": "2022-01-09T20:58:41+00:00",
+    "_date": "2022-01-09T20:58:41.000Z"
+  },
+  {
     "title": "Discord hacking is the newest threat for NFT buyers",
     "link": "https://www.theverge.com/2022/1/7/22870912/nft-communities-boom-discord-hackers-cryptocurrency-webhooks",
     "dateText": "Jan 7, 2022",
@@ -509,13 +523,6 @@
     "dateText": "Jan 6, 2022",
     "datetime": "2022-01-06T18:58:16+00:00",
     "_date": "2022-01-06T18:58:16.000Z"
-  },
-  {
-    "title": "HP adds two new Dragonfly models to its business lineup",
-    "link": "https://www.theverge.com/2022/1/4/22866703/hp-elite-dragonfly-g3-chromebook-enterprise-laptops",
-    "dateText": "Jan 6, 2022",
-    "datetime": "2022-01-06T16:23:02+00:00",
-    "_date": "2022-01-06T16:23:02.000Z"
   },
   {
     "title": "Eufy’s new doorbell has two cameras to monitor visitors and packages",
