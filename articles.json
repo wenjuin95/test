@@ -7,11 +7,11 @@
     "_date": "2026-04-17T14:00:00.000Z"
   },
   {
-    "title": "The Peloton story: everything you need to know",
-    "link": "https://www.theverge.com/24025034/peloton-bike-treadmill-connected-fitness-news",
-    "dateText": "Apr 17",
-    "datetime": "2026-04-17T14:00:00+00:00",
-    "_date": "2026-04-17T14:00:00.000Z"
+    "title": "The tech industry’s layoffs and hiring freezes: all of the news",
+    "link": "https://www.theverge.com/2022/11/14/23458204/meta-twitter-amazon-apple-layoffs-hiring-freezes-latest-tech-industry",
+    "dateText": "Mar 14",
+    "datetime": "2026-03-14T18:48:56+00:00",
+    "_date": "2026-03-14T18:48:56.000Z"
   },
   {
     "title": "All the news about EV charging in the US",
@@ -47,13 +47,6 @@
     "dateText": "Nov 16, 2025",
     "datetime": "2025-11-16T16:29:46+00:00",
     "_date": "2025-11-16T16:29:46.000Z"
-  },
-  {
-    "title": "FBI’s warrantless ‘backdoor’ searches ruled unconstitutional",
-    "link": "https://www.theverge.com/2025/1/27/24353289/fbi-warrantless-backdoor-searches-unconstitutional-ruling",
-    "dateText": "Jan 27, 2025",
-    "datetime": "2025-01-27T23:34:12+00:00",
-    "_date": "2025-01-27T23:34:12.000Z"
   },
   {
     "title": "FBI’s warrantless ‘backdoor’ searches ruled unconstitutional",
@@ -105,13 +98,6 @@
     "_date": "2024-02-15T20:00:00.000Z"
   },
   {
-    "title": "Microsoft’s gaming revenues overtake Windows thanks to Activision Blizzard",
-    "link": "https://www.theverge.com/2024/1/30/24055445/microsoft-q2-2024-earnings-revenue-profits-windows-xbox-gaming-surface",
-    "dateText": "Jan 30, 2024",
-    "datetime": "2024-01-30T21:06:12+00:00",
-    "_date": "2024-01-30T21:06:12.000Z"
-  },
-  {
     "title": "Microsoft lays off 1,900 Activision Blizzard and Xbox employees",
     "link": "https://www.theverge.com/2024/1/25/24049050/microsoft-activision-blizzard-layoffs",
     "dateText": "Jan 25, 2024",
@@ -152,6 +138,13 @@
     "dateText": "Jan 31, 2023",
     "datetime": "2023-01-31T01:28:06+00:00",
     "_date": "2023-01-31T01:28:06.000Z"
+  },
+  {
+    "title": "Friday’s top tech news: a remake and a remaster",
+    "link": "https://www.theverge.com/2023/1/27/23573946/january-27-2023-tech-news-liveblog",
+    "dateText": "Jan 27, 2023",
+    "datetime": "2023-01-27T20:46:41+00:00",
+    "_date": "2023-01-27T20:46:41.000Z"
   },
   {
     "title": "Wednesday’s top tech news: Meta unbans Trump",
@@ -329,13 +322,6 @@
     "_date": "2022-09-29T16:15:00.000Z"
   },
   {
-    "title": "EV prices are going in the wrong direction",
-    "link": "https://www.theverge.com/2022/8/24/23319794/ev-price-increase-used-cars-analysis-iseecars",
-    "dateText": "Aug 24, 2022",
-    "datetime": "2022-08-24T15:07:50+00:00",
-    "_date": "2022-08-24T15:07:50.000Z"
-  },
-  {
     "title": "Twitter whistleblower Peiter “Mudge” Zatko is credible, capable, “brutally honest,” peers say",
     "link": "https://www.theverge.com/2022/8/23/23318554/cybersecurity-pros-defend-twitter-whistleblower-peiter-mudge-zatko",
     "dateText": "Aug 23, 2022",
@@ -364,18 +350,18 @@
     "_date": "2022-06-24T09:15:04.000Z"
   },
   {
-    "title": "Crypto is winning, and Bitcoin diehards are furious about it",
-    "link": "https://www.theverge.com/2022/4/28/23042819/bitcoin-2022-miami-beach-conference-maxis",
-    "dateText": "Apr 28, 2022",
-    "datetime": "2022-04-28T17:00:00+00:00",
-    "_date": "2022-04-28T17:00:00.000Z"
-  },
-  {
     "title": "I’m done with Wyze",
     "link": "https://www.theverge.com/23003418/wyze-cam-v1-vulnerability-no-patch-bitdefender-responsible-disclosure",
     "dateText": "Mar 30, 2022",
     "datetime": "2022-03-30T23:13:23+00:00",
     "_date": "2022-03-30T23:13:23.000Z"
+  },
+  {
+    "title": "NASA and SpaceX say lagging parachutes on Dragon capsule are not a problem",
+    "link": "https://www.theverge.com/2022/2/4/22914726/spacex-crew-dragon-lagging-parachutes-nasa-landing",
+    "dateText": "Feb 4, 2022",
+    "datetime": "2022-02-04T19:57:41+00:00",
+    "_date": "2022-02-04T19:57:41.000Z"
   },
   {
     "title": "Public accountants are deducting themselves from their jobs",
@@ -404,6 +390,13 @@
     "dateText": "Jan 26, 2022",
     "datetime": "2022-01-26T22:36:28+00:00",
     "_date": "2022-01-26T22:36:28.000Z"
+  },
+  {
+    "title": "Apple creates personal safety guide as AirTag concerns mount",
+    "link": "https://www.theverge.com/2022/1/26/22903005/apple-airtags-personal-safety-hub",
+    "dateText": "Jan 26, 2022",
+    "datetime": "2022-01-26T20:37:17+00:00",
+    "_date": "2022-01-26T20:37:17.000Z"
   },
   {
     "title": "Windows 11 is getting Android apps, taskbar improvements, and more next month",
@@ -488,6 +481,13 @@
     "dateText": "Jan 9, 2022",
     "datetime": "2022-01-09T20:58:41+00:00",
     "_date": "2022-01-09T20:58:41.000Z"
+  },
+  {
+    "title": "Discord hacking is the newest threat for NFT buyers",
+    "link": "https://www.theverge.com/2022/1/7/22870912/nft-communities-boom-discord-hackers-cryptocurrency-webhooks",
+    "dateText": "Jan 7, 2022",
+    "datetime": "2022-01-07T13:00:00+00:00",
+    "_date": "2022-01-07T13:00:00.000Z"
   },
   {
     "title": "Mozilla pauses accepting crypto donations following backlash",
