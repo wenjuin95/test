@@ -14,18 +14,18 @@
     "_date": "2026-03-14T18:48:56.000Z"
   },
   {
+    "title": "All the news about EV charging in the US",
+    "link": "https://www.theverge.com/23758095/electric-vehicle-charging-news-nacs-ccs-tesla-supercharger-us-infrastructure",
+    "dateText": "Feb 23",
+    "datetime": "2026-02-23T15:54:06+00:00",
+    "_date": "2026-02-23T15:54:06.000Z"
+  },
+  {
     "title": "Here are the best Kindle deals right now",
     "link": "https://www.theverge.com/21539047/best-amazon-kindle-deals",
     "dateText": "Jan 21",
     "datetime": "2026-01-21T23:00:00+00:00",
     "_date": "2026-01-21T23:00:00.000Z"
-  },
-  {
-    "title": "Gemini is winning",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner",
-    "dateText": "Jan 14",
-    "datetime": "2026-01-14T18:16:39+00:00",
-    "_date": "2026-01-14T18:16:39.000Z"
   },
   {
     "title": "Gemini is winning",
@@ -308,6 +308,13 @@
     "_date": "2022-10-31T00:52:51.000Z"
   },
   {
+    "title": "Twitter is planning to start charging soon for verification",
+    "link": "https://www.theverge.com/2022/10/30/23431931/twitter-paid-verification-elon-musk-blue-monthly-subscription",
+    "dateText": "Oct 31, 2022",
+    "datetime": "2022-10-31T00:52:51+00:00",
+    "_date": "2022-10-31T00:52:51.000Z"
+  },
+  {
     "title": "Louisiana kicks off one of the US’s biggest carbon capture projects yet",
     "link": "https://www.theverge.com/2022/10/14/23404296/louisiana-carbon-capture-project-ammonia-fertilizer-cf-industries-exxon-mobil",
     "dateText": "Oct 14, 2022",
@@ -315,18 +322,18 @@
     "_date": "2022-10-14T17:44:04.000Z"
   },
   {
-    "title": "I’m going to miss Google Stadia",
-    "link": "https://www.theverge.com/2022/9/30/23380047/google-stadia-end-editorial",
-    "dateText": "Sep 30, 2022",
-    "datetime": "2022-09-30T11:30:00+00:00",
-    "_date": "2022-09-30T11:30:00.000Z"
-  },
-  {
     "title": "Google is shutting down Stadia",
     "link": "https://www.theverge.com/2022/9/29/23378713/google-stadia-shutting-down-game-streaming-january-2023",
     "dateText": "Sep 29, 2022",
     "datetime": "2022-09-29T16:15:00+00:00",
     "_date": "2022-09-29T16:15:00.000Z"
+  },
+  {
+    "title": "EV prices are going in the wrong direction",
+    "link": "https://www.theverge.com/2022/8/24/23319794/ev-price-increase-used-cars-analysis-iseecars",
+    "dateText": "Aug 24, 2022",
+    "datetime": "2022-08-24T15:07:50+00:00",
+    "_date": "2022-08-24T15:07:50.000Z"
   },
   {
     "title": "Twitter whistleblower Peiter “Mudge” Zatko is credible, capable, “brutally honest,” peers say",
@@ -362,13 +369,6 @@
     "dateText": "Mar 30, 2022",
     "datetime": "2022-03-30T23:13:23+00:00",
     "_date": "2022-03-30T23:13:23.000Z"
-  },
-  {
-    "title": "NASA and SpaceX say lagging parachutes on Dragon capsule are not a problem",
-    "link": "https://www.theverge.com/2022/2/4/22914726/spacex-crew-dragon-lagging-parachutes-nasa-landing",
-    "dateText": "Feb 4, 2022",
-    "datetime": "2022-02-04T19:57:41+00:00",
-    "_date": "2022-02-04T19:57:41.000Z"
   },
   {
     "title": "Public accountants are deducting themselves from their jobs",
@@ -446,6 +446,13 @@
     "dateText": "Jan 20, 2022",
     "datetime": "2022-01-20T16:59:59+00:00",
     "_date": "2022-01-20T16:59:59.000Z"
+  },
+  {
+    "title": "Yellowjackets’ first season is a collective fever dream",
+    "link": "https://www.theverge.com/22891108/yellowjackets-season-1-teen-survival-showtime",
+    "dateText": "Jan 19, 2022",
+    "datetime": "2022-01-19T15:00:00+00:00",
+    "_date": "2022-01-19T15:00:00.000Z"
   },
   {
     "title": "Microsoft to acquire Activision Blizzard for $68.7 billion",
