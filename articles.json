@@ -7,6 +7,20 @@
     "_date": "2024-11-20T16:32:40.000Z"
   },
   {
+    "title": "The battle between the FAA, AT&T, Verizon, and airlines over 5G",
+    "link": "https://www.theverge.com/2022/1/19/22891634/faa-att-verizon-5g-c-band-rollout-battle-airlines-buffer-zones",
+    "dateText": "Sep 1, 2023",
+    "datetime": "2023-09-01T22:39:46+00:00",
+    "_date": "2023-09-01T22:39:46.000Z"
+  },
+  {
+    "title": "An upcoming 5G deadline could cause airline delays starting July 1st",
+    "link": "https://www.theverge.com/2023/6/25/23773181/faa-buttigieg-airlines-5g-interference-altimeter-upgrades",
+    "dateText": "Jun 25, 2023",
+    "datetime": "2023-06-25T18:47:57+00:00",
+    "_date": "2023-06-25T18:47:57.000Z"
+  },
+  {
     "title": "Monday’s top tech news: the chip war ramps up",
     "link": "https://www.theverge.com/2023/1/30/23577414/january-23-2022-tech-news-liveblog",
     "dateText": "Jan 31, 2023",
@@ -26,6 +40,13 @@
     "dateText": "Jan 18, 2023",
     "datetime": "2023-01-18T14:24:49+00:00",
     "_date": "2023-01-18T14:24:49.000Z"
+  },
+  {
+    "title": "Inside Elon’s “extremely hardcore” Twitter",
+    "link": "https://www.theverge.com/23551060/elon-musk-twitter-takeover-layoffs-workplace-salute-emoji",
+    "dateText": "Jan 17, 2023",
+    "datetime": "2023-01-17T11:00:00+00:00",
+    "_date": "2023-01-17T11:00:00.000Z"
   },
   {
     "title": "Friday’s top tech news: unexpected price cuts at Tesla",
@@ -54,6 +75,13 @@
     "dateText": "Aug 17, 2022",
     "datetime": "2022-08-17T12:00:00+00:00",
     "_date": "2022-08-17T12:00:00.000Z"
+  },
+  {
+    "title": "Microsoft prepares to forget about Windows 8.1 with end of support notifications",
+    "link": "https://www.theverge.com/2022/6/24/23181347/microsoft-windows-8-1-end-of-support-notifications-pop-ups",
+    "dateText": "Jun 24, 2022",
+    "datetime": "2022-06-24T09:15:04+00:00",
+    "_date": "2022-06-24T09:15:04.000Z"
   },
   {
     "title": "Public accountants are deducting themselves from their jobs",
@@ -98,11 +126,32 @@
     "_date": "2022-01-14T20:15:59.000Z"
   },
   {
+    "title": "A ransomware attack took a New Mexico jail offline, leaving inmates in lockdown",
+    "link": "https://www.theverge.com/2022/1/11/22878471/ransomware-attack-new-mexico-jail-lockdown-cameras-bernalillo-county",
+    "dateText": "Jan 11, 2022",
+    "datetime": "2022-01-11T18:40:15+00:00",
+    "_date": "2022-01-11T18:40:15.000Z"
+  },
+  {
+    "title": "Spotify shuts down its namesake podcast studio",
+    "link": "https://www.theverge.com/2022/1/11/22877242/spotify-studios-four-lay-off-original-podcast",
+    "dateText": "Jan 11, 2022",
+    "datetime": "2022-01-11T13:00:00+00:00",
+    "_date": "2022-01-11T13:00:00.000Z"
+  },
+  {
     "title": "The Associated Press is starting its own NFT marketplace for photojournalism",
     "link": "https://www.theverge.com/2022/1/10/22876993/associated-press-ap-nft-marketplace-xooa-blockchain-photo-journalism-funding",
     "dateText": "Jan 10, 2022",
     "datetime": "2022-01-10T23:59:39+00:00",
     "_date": "2022-01-10T23:59:39.000Z"
+  },
+  {
+    "title": "Mozilla pauses accepting crypto donations following backlash",
+    "link": "https://www.theverge.com/2022/1/6/22870787/mozilla-pauses-crypto-donations-backlash-jwz",
+    "dateText": "Jan 6, 2022",
+    "datetime": "2022-01-06T21:28:26+00:00",
+    "_date": "2022-01-06T21:28:26.000Z"
   },
   {
     "title": "Drone carrying a defibrillator saves its first cardiac arrest patient in Sweden",
@@ -117,5 +166,12 @@
     "dateText": "Jan 5, 2022",
     "datetime": "2022-01-05T17:31:40+00:00",
     "_date": "2022-01-05T17:31:40.000Z"
+  },
+  {
+    "title": "Sony is joining the Mini LED TV bandwagon in 2022",
+    "link": "https://www.theverge.com/2022/1/4/22866348/sony-bravia-xr-x90k-x95k-led-tv-features-specs",
+    "dateText": "Jan 4, 2022",
+    "datetime": "2022-01-04T15:00:00+00:00",
+    "_date": "2022-01-04T15:00:00.000Z"
   }
 ]
