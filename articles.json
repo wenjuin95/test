@@ -7,6 +7,13 @@
     "_date": "2026-04-17T14:00:00.000Z"
   },
   {
+    "title": "The tech industry’s layoffs and hiring freezes: all of the news",
+    "link": "https://www.theverge.com/2022/11/14/23458204/meta-twitter-amazon-apple-layoffs-hiring-freezes-latest-tech-industry",
+    "dateText": "Mar 14",
+    "datetime": "2026-03-14T18:48:56+00:00",
+    "_date": "2026-03-14T18:48:56.000Z"
+  },
+  {
     "title": "All the news about EV charging in the US",
     "link": "https://www.theverge.com/23758095/electric-vehicle-charging-news-nacs-ccs-tesla-supercharger-us-infrastructure",
     "dateText": "Feb 23",
@@ -19,6 +26,20 @@
     "dateText": "Jan 21",
     "datetime": "2026-01-21T23:00:00+00:00",
     "_date": "2026-01-21T23:00:00.000Z"
+  },
+  {
+    "title": "Here are the best Kindle deals right now",
+    "link": "https://www.theverge.com/21539047/best-amazon-kindle-deals",
+    "dateText": "Jan 21",
+    "datetime": "2026-01-21T23:00:00+00:00",
+    "_date": "2026-01-21T23:00:00.000Z"
+  },
+  {
+    "title": "Gemini is winning",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner",
+    "dateText": "Jan 14",
+    "datetime": "2026-01-14T18:16:39+00:00",
+    "_date": "2026-01-14T18:16:39.000Z"
   },
   {
     "title": "Every trick Microsoft pulled to make you browse Edge instead of Chrome",
@@ -40,6 +61,13 @@
     "dateText": "Jan 27, 2025",
     "datetime": "2025-01-27T23:34:12+00:00",
     "_date": "2025-01-27T23:34:12.000Z"
+  },
+  {
+    "title": "Netflix won the streaming wars, and we’re all about to pay for it",
+    "link": "https://www.theverge.com/2025/1/26/24351302/netflix-price-increase-streaming-wars",
+    "dateText": "Jan 26, 2025",
+    "datetime": "2025-01-26T14:00:00+00:00",
+    "_date": "2025-01-26T14:00:00.000Z"
   },
   {
     "title": "Netflix won the streaming wars, and we’re all about to pay for it",
@@ -91,11 +119,11 @@
     "_date": "2024-01-25T14:16:49.000Z"
   },
   {
-    "title": "Lapsus$ cyberattacks: the latest news on the hacking group",
-    "link": "https://www.theverge.com/22998479/lapsus-hacking-group-cyberattacks-news-updates",
-    "dateText": "Dec 21, 2023",
-    "datetime": "2023-12-21T19:07:52+00:00",
-    "_date": "2023-12-21T19:07:52.000Z"
+    "title": "Activision Blizzard faces lawsuit and employee backlash over sexual harassment",
+    "link": "https://www.theverge.com/2021/7/28/22597113/activision-blizzard-california-sexual-harassment-lawsuit-discrimination-employee-action",
+    "dateText": "Dec 16, 2023",
+    "datetime": "2023-12-16T00:43:49+00:00",
+    "_date": "2023-12-16T00:43:49.000Z"
   },
   {
     "title": "The battle between the FAA, AT&T, Verizon, and airlines over 5G",
@@ -103,6 +131,13 @@
     "dateText": "Sep 1, 2023",
     "datetime": "2023-09-01T22:39:46+00:00",
     "_date": "2023-09-01T22:39:46.000Z"
+  },
+  {
+    "title": "An upcoming 5G deadline could cause airline delays starting July 1st",
+    "link": "https://www.theverge.com/2023/6/25/23773181/faa-buttigieg-airlines-5g-interference-altimeter-upgrades",
+    "dateText": "Jun 25, 2023",
+    "datetime": "2023-06-25T18:47:57+00:00",
+    "_date": "2023-06-25T18:47:57.000Z"
   },
   {
     "title": "An upcoming 5G deadline could cause airline delays starting July 1st",
@@ -140,6 +175,13 @@
     "_date": "2023-01-26T18:02:53.000Z"
   },
   {
+    "title": "All the news from Amazon’s September 2022 product launch event",
+    "link": "https://www.theverge.com/2022/9/28/23373604/amazon-fall-event-news-products-announcements",
+    "dateText": "Jan 26, 2023",
+    "datetime": "2023-01-26T15:45:39+00:00",
+    "_date": "2023-01-26T15:45:39.000Z"
+  },
+  {
     "title": "Tuesday’s top tech news: Lightyear’s buzz fizzles",
     "link": "https://www.theverge.com/2023/1/24/23568888/january-24-2023-tech-news-liveblog",
     "dateText": "Jan 25, 2023",
@@ -166,13 +208,6 @@
     "dateText": "Jan 20, 2023",
     "datetime": "2023-01-20T15:07:02+00:00",
     "_date": "2023-01-20T15:07:02.000Z"
-  },
-  {
-    "title": "Thursday’s top tech news: what does ‘funding secured’ mean anyway?",
-    "link": "https://www.theverge.com/2023/1/19/23562022/january-19-2023-tech-news-liveblog",
-    "dateText": "Jan 19, 2023",
-    "datetime": "2023-01-19T21:10:28+00:00",
-    "_date": "2023-01-19T21:10:28.000Z"
   },
   {
     "title": "Wednesday’s top tech news: layoffs come for Microsoft",
@@ -208,6 +243,13 @@
     "dateText": "Jan 14, 2023",
     "datetime": "2023-01-14T04:27:07+00:00",
     "_date": "2023-01-14T04:27:07.000Z"
+  },
+  {
+    "title": "Meta sues company using fake Facebook accounts to scrape data",
+    "link": "https://www.theverge.com/2023/1/13/23553332/meta-facebook-instagram-voyager-labs-data-privacy-sue",
+    "dateText": "Jan 13, 2023",
+    "datetime": "2023-01-13T13:11:08+00:00",
+    "_date": "2023-01-13T13:11:08.000Z"
   },
   {
     "title": "Thursday’s top tech news: an Apple ecosystem for all",
@@ -252,6 +294,13 @@
     "_date": "2022-12-05T17:37:25.000Z"
   },
   {
+    "title": "Slack CEO Stewart Butterfield is leaving in January",
+    "link": "https://www.theverge.com/2022/12/5/23494542/slack-ceo-stewart-butterfield-leaving-salesforce",
+    "dateText": "Dec 5, 2022",
+    "datetime": "2022-12-05T17:37:25+00:00",
+    "_date": "2022-12-05T17:37:25.000Z"
+  },
+  {
     "title": "Continuous glucose monitor startups still have to prove their worth",
     "link": "https://www.theverge.com/c/23440723/glucose-monitor-wellness-diet-diabetes-startups",
     "dateText": "Nov 21, 2022",
@@ -287,11 +336,11 @@
     "_date": "2022-10-14T17:44:04.000Z"
   },
   {
-    "title": "Google is shutting down Stadia",
-    "link": "https://www.theverge.com/2022/9/29/23378713/google-stadia-shutting-down-game-streaming-january-2023",
-    "dateText": "Sep 29, 2022",
-    "datetime": "2022-09-29T16:15:00+00:00",
-    "_date": "2022-09-29T16:15:00.000Z"
+    "title": "I’m going to miss Google Stadia",
+    "link": "https://www.theverge.com/2022/9/30/23380047/google-stadia-end-editorial",
+    "dateText": "Sep 30, 2022",
+    "datetime": "2022-09-30T11:30:00+00:00",
+    "_date": "2022-09-30T11:30:00.000Z"
   },
   {
     "title": "Google is shutting down Stadia",
@@ -299,13 +348,6 @@
     "dateText": "Sep 29, 2022",
     "datetime": "2022-09-29T16:15:00+00:00",
     "_date": "2022-09-29T16:15:00.000Z"
-  },
-  {
-    "title": "Twitter whistleblower Peiter “Mudge” Zatko is credible, capable, “brutally honest,” peers say",
-    "link": "https://www.theverge.com/2022/8/23/23318554/cybersecurity-pros-defend-twitter-whistleblower-peiter-mudge-zatko",
-    "dateText": "Aug 23, 2022",
-    "datetime": "2022-08-23T19:41:36+00:00",
-    "_date": "2022-08-23T19:41:36.000Z"
   },
   {
     "title": "Electric vehicle owners are fed up with broken EV chargers and janky software",
@@ -315,11 +357,25 @@
     "_date": "2022-08-17T12:00:00.000Z"
   },
   {
+    "title": "Xbox and Windows fall in Microsoft’s $51.9 billion quarter",
+    "link": "https://www.theverge.com/2022/7/26/23278933/microsoft-q4-2022-earnings-revenue-cloud-windows-xbox-gaming-surface",
+    "dateText": "Jul 26, 2022",
+    "datetime": "2022-07-26T20:13:43+00:00",
+    "_date": "2022-07-26T20:13:43.000Z"
+  },
+  {
     "title": "Microsoft prepares to forget about Windows 8.1 with end of support notifications",
     "link": "https://www.theverge.com/2022/6/24/23181347/microsoft-windows-8-1-end-of-support-notifications-pop-ups",
     "dateText": "Jun 24, 2022",
     "datetime": "2022-06-24T09:15:04+00:00",
     "_date": "2022-06-24T09:15:04.000Z"
+  },
+  {
+    "title": "I’m done with Wyze",
+    "link": "https://www.theverge.com/23003418/wyze-cam-v1-vulnerability-no-patch-bitdefender-responsible-disclosure",
+    "dateText": "Mar 30, 2022",
+    "datetime": "2022-03-30T23:13:23+00:00",
+    "_date": "2022-03-30T23:13:23.000Z"
   },
   {
     "title": "NASA and SpaceX say lagging parachutes on Dragon capsule are not a problem",
@@ -343,6 +399,13 @@
     "_date": "2022-01-29T00:07:36.000Z"
   },
   {
+    "title": "US lawmakers probe into crypto mining companies’ energy use",
+    "link": "https://www.theverge.com/2022/1/28/22906334/us-lawmakers-letter-cryptocurrency-mining-bitcoin-energy",
+    "dateText": "Jan 28, 2022",
+    "datetime": "2022-01-28T18:47:41+00:00",
+    "_date": "2022-01-28T18:47:41.000Z"
+  },
+  {
     "title": "Discord recovers from two-hour outage",
     "link": "https://www.theverge.com/2022/1/26/22903170/discord-down-outage-problems",
     "dateText": "Jan 26, 2022",
@@ -362,13 +425,6 @@
     "dateText": "Jan 26, 2022",
     "datetime": "2022-01-26T14:21:31+00:00",
     "_date": "2022-01-26T14:21:31.000Z"
-  },
-  {
-    "title": "Facebook’s plan to offer free internet in developing countries ended up costing users, WSJ reports",
-    "link": "https://www.theverge.com/2022/1/25/22900924/facebooks-free-internet-less-developed-costing-users-wsj",
-    "dateText": "Jan 25, 2022",
-    "datetime": "2022-01-25T20:00:45+00:00",
-    "_date": "2022-01-25T20:00:45.000Z"
   },
   {
     "title": "Plaid’s new privacy controls let you manage your financial data from a single hub",
@@ -427,13 +483,6 @@
     "_date": "2022-01-11T18:40:15.000Z"
   },
   {
-    "title": "Spotify shuts down its namesake podcast studio",
-    "link": "https://www.theverge.com/2022/1/11/22877242/spotify-studios-four-lay-off-original-podcast",
-    "dateText": "Jan 11, 2022",
-    "datetime": "2022-01-11T13:00:00+00:00",
-    "_date": "2022-01-11T13:00:00.000Z"
-  },
-  {
     "title": "The Associated Press is starting its own NFT marketplace for photojournalism",
     "link": "https://www.theverge.com/2022/1/10/22876993/associated-press-ap-nft-marketplace-xooa-blockchain-photo-journalism-funding",
     "dateText": "Jan 10, 2022",
@@ -467,6 +516,13 @@
     "dateText": "Jan 6, 2022",
     "datetime": "2022-01-06T18:58:16+00:00",
     "_date": "2022-01-06T18:58:16.000Z"
+  },
+  {
+    "title": "HP adds two new Dragonfly models to its business lineup",
+    "link": "https://www.theverge.com/2022/1/4/22866703/hp-elite-dragonfly-g3-chromebook-enterprise-laptops",
+    "dateText": "Jan 6, 2022",
+    "datetime": "2022-01-06T16:23:02+00:00",
+    "_date": "2022-01-06T16:23:02.000Z"
   },
   {
     "title": "Eufy’s new doorbell has two cameras to monitor visitors and packages",
@@ -520,6 +576,13 @@
   {
     "title": "Samsung’s latest Frame TVs have a matte screen that looks and feels more like real art",
     "link": "https://www.theverge.com/2022/1/2/22858577/samsung-frame-2022-tv-matte-antireflective-screen",
+    "dateText": "Jan 3, 2022",
+    "datetime": "2022-01-03T02:00:00+00:00",
+    "_date": "2022-01-03T02:00:00.000Z"
+  },
+  {
+    "title": "Samsung’s new TV remote uses radio waves from your router to stay charged",
+    "link": "https://www.theverge.com/2022/1/2/22860390/samsung-eco-remote-2022-solar-rf-harvesting-charging",
     "dateText": "Jan 3, 2022",
     "datetime": "2022-01-03T02:00:00+00:00",
     "_date": "2022-01-03T02:00:00.000Z"
