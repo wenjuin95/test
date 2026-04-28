@@ -119,13 +119,6 @@
     "_date": "2023-09-01T22:39:46.000Z"
   },
   {
-    "title": "An upcoming 5G deadline could cause airline delays starting July 1st",
-    "link": "https://www.theverge.com/2023/6/25/23773181/faa-buttigieg-airlines-5g-interference-altimeter-upgrades",
-    "dateText": "Jun 25, 2023",
-    "datetime": "2023-06-25T18:47:57+00:00",
-    "_date": "2023-06-25T18:47:57.000Z"
-  },
-  {
     "title": "Monday’s top tech news: the chip war ramps up",
     "link": "https://www.theverge.com/2023/1/30/23577414/january-23-2022-tech-news-liveblog",
     "dateText": "Jan 31, 2023",
@@ -159,6 +152,13 @@
     "dateText": "Jan 26, 2023",
     "datetime": "2023-01-26T15:45:39+00:00",
     "_date": "2023-01-26T15:45:39.000Z"
+  },
+  {
+    "title": "Tuesday’s top tech news: Lightyear’s buzz fizzles",
+    "link": "https://www.theverge.com/2023/1/24/23568888/january-24-2023-tech-news-liveblog",
+    "dateText": "Jan 25, 2023",
+    "datetime": "2023-01-25T19:10:00+00:00",
+    "_date": "2023-01-25T19:10:00.000Z"
   },
   {
     "title": "Tuesday’s top tech news: Lightyear’s buzz fizzles",
@@ -224,18 +224,18 @@
     "_date": "2023-01-14T04:27:07.000Z"
   },
   {
+    "title": "Meta sues company using fake Facebook accounts to scrape data",
+    "link": "https://www.theverge.com/2023/1/13/23553332/meta-facebook-instagram-voyager-labs-data-privacy-sue",
+    "dateText": "Jan 13, 2023",
+    "datetime": "2023-01-13T13:11:08+00:00",
+    "_date": "2023-01-13T13:11:08.000Z"
+  },
+  {
     "title": "Thursday’s top tech news: an Apple ecosystem for all",
     "link": "https://www.theverge.com/2023/1/12/23551589/january-12-2023-tech-news-liveblog",
     "dateText": "Jan 12, 2023",
     "datetime": "2023-01-12T20:06:28+00:00",
     "_date": "2023-01-12T20:06:28.000Z"
-  },
-  {
-    "title": "Tuesday’s top tech news: the next step in Apple’s chip plans",
-    "link": "https://www.theverge.com/2023/1/10/23547974/january-10-2023-tech-news-liveblog",
-    "dateText": "Jan 11, 2023",
-    "datetime": "2023-01-11T01:47:54+00:00",
-    "_date": "2023-01-11T01:47:54.000Z"
   },
   {
     "title": "Tuesday’s top tech news: the next step in Apple’s chip plans",
@@ -441,13 +441,6 @@
     "_date": "2022-01-20T16:59:59.000Z"
   },
   {
-    "title": "AMD hides its claim that 4GB of VRAM is “not enough” just as it launches a 4GB GPU",
-    "link": "https://www.theverge.com/2022/1/19/22891092/amd-4g-vram-claim-gpu-launch-rx-6500-xt",
-    "dateText": "Jan 19, 2022",
-    "datetime": "2022-01-19T17:16:30+00:00",
-    "_date": "2022-01-19T17:16:30.000Z"
-  },
-  {
     "title": "Yellowjackets’ first season is a collective fever dream",
     "link": "https://www.theverge.com/22891108/yellowjackets-season-1-teen-survival-showtime",
     "dateText": "Jan 19, 2022",
@@ -567,11 +560,11 @@
     "_date": "2022-01-05T15:23:53.000Z"
   },
   {
-    "title": "Samsung’s tiny Freestyle projector is fun so get over it",
-    "link": "https://www.theverge.com/2022/1/4/22865673/samsung-freestyle-portable-lifestyle-projector-not-olds",
+    "title": "Meta reportedly canceled a 300-person VR / AR operating system project",
+    "link": "https://www.theverge.com/2022/1/5/22868388/meta-xros-vr-ar-os-development-canceled",
     "dateText": "Jan 5, 2022",
-    "datetime": "2022-01-05T02:30:00+00:00",
-    "_date": "2022-01-05T02:30:00.000Z"
+    "datetime": "2022-01-05T15:23:53+00:00",
+    "_date": "2022-01-05T15:23:53.000Z"
   },
   {
     "title": "Sony is joining the Mini LED TV bandwagon in 2022",
@@ -583,6 +576,13 @@
   {
     "title": "Samsung’s latest Frame TVs have a matte screen that looks and feels more like real art",
     "link": "https://www.theverge.com/2022/1/2/22858577/samsung-frame-2022-tv-matte-antireflective-screen",
+    "dateText": "Jan 3, 2022",
+    "datetime": "2022-01-03T02:00:00+00:00",
+    "_date": "2022-01-03T02:00:00.000Z"
+  },
+  {
+    "title": "Samsung’s new TV remote uses radio waves from your router to stay charged",
+    "link": "https://www.theverge.com/2022/1/2/22860390/samsung-eco-remote-2022-solar-rf-harvesting-charging",
     "dateText": "Jan 3, 2022",
     "datetime": "2022-01-03T02:00:00+00:00",
     "_date": "2022-01-03T02:00:00.000Z"
