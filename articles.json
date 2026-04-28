@@ -1,5 +1,12 @@
 [
   {
+    "title": "The Peloton story: everything you need to know",
+    "link": "https://www.theverge.com/24025034/peloton-bike-treadmill-connected-fitness-news",
+    "dateText": "Apr 17",
+    "datetime": "2026-04-17T14:00:00+00:00",
+    "_date": "2026-04-17T14:00:00.000Z"
+  },
+  {
     "title": "The tech industry’s layoffs and hiring freezes: all of the news",
     "link": "https://www.theverge.com/2022/11/14/23458204/meta-twitter-amazon-apple-layoffs-hiring-freezes-latest-tech-industry",
     "dateText": "Mar 14",
@@ -119,6 +126,13 @@
     "_date": "2023-09-01T22:39:46.000Z"
   },
   {
+    "title": "An upcoming 5G deadline could cause airline delays starting July 1st",
+    "link": "https://www.theverge.com/2023/6/25/23773181/faa-buttigieg-airlines-5g-interference-altimeter-upgrades",
+    "dateText": "Jun 25, 2023",
+    "datetime": "2023-06-25T18:47:57+00:00",
+    "_date": "2023-06-25T18:47:57.000Z"
+  },
+  {
     "title": "Monday’s top tech news: the chip war ramps up",
     "link": "https://www.theverge.com/2023/1/30/23577414/january-23-2022-tech-news-liveblog",
     "dateText": "Jan 31, 2023",
@@ -152,13 +166,6 @@
     "dateText": "Jan 26, 2023",
     "datetime": "2023-01-26T15:45:39+00:00",
     "_date": "2023-01-26T15:45:39.000Z"
-  },
-  {
-    "title": "Tuesday’s top tech news: Lightyear’s buzz fizzles",
-    "link": "https://www.theverge.com/2023/1/24/23568888/january-24-2023-tech-news-liveblog",
-    "dateText": "Jan 25, 2023",
-    "datetime": "2023-01-25T19:10:00+00:00",
-    "_date": "2023-01-25T19:10:00.000Z"
   },
   {
     "title": "Tuesday’s top tech news: Lightyear’s buzz fizzles",
@@ -294,13 +301,6 @@
     "_date": "2022-11-15T14:41:25.000Z"
   },
   {
-    "title": "Elon Musk is putting Twitter at risk of massive fines, warns employees",
-    "link": "https://www.theverge.com/2022/11/10/23451198/twitter-ftc-elon-musk-lawyer-changes-fine-warning",
-    "dateText": "Nov 10, 2022",
-    "datetime": "2022-11-10T16:52:06+00:00",
-    "_date": "2022-11-10T16:52:06.000Z"
-  },
-  {
     "title": "Twitter is planning to start charging soon for verification",
     "link": "https://www.theverge.com/2022/10/30/23431931/twitter-paid-verification-elon-musk-blue-monthly-subscription",
     "dateText": "Oct 31, 2022",
@@ -357,6 +357,13 @@
     "_date": "2022-03-30T23:13:23.000Z"
   },
   {
+    "title": "Netflix is testing ways to end password sharing and push viewers to pay extra",
+    "link": "https://www.theverge.com/2022/3/16/22981283/netflix-password-sharing-test-multiple-streams",
+    "dateText": "Mar 16, 2022",
+    "datetime": "2022-03-16T17:22:17+00:00",
+    "_date": "2022-03-16T17:22:17.000Z"
+  },
+  {
     "title": "NASA and SpaceX say lagging parachutes on Dragon capsule are not a problem",
     "link": "https://www.theverge.com/2022/2/4/22914726/spacex-crew-dragon-lagging-parachutes-nasa-landing",
     "dateText": "Feb 4, 2022",
@@ -376,6 +383,13 @@
     "dateText": "Jan 29, 2022",
     "datetime": "2022-01-29T00:07:36+00:00",
     "_date": "2022-01-29T00:07:36.000Z"
+  },
+  {
+    "title": "Google seems to be giving its Android Tablets division some attention",
+    "link": "https://www.theverge.com/2022/1/28/22904891/google-android-tablets-focus-rich-miner-cto",
+    "dateText": "Jan 28, 2022",
+    "datetime": "2022-01-28T23:27:19+00:00",
+    "_date": "2022-01-28T23:27:19.000Z"
   },
   {
     "title": "US lawmakers probe into crypto mining companies’ energy use",
@@ -404,13 +418,6 @@
     "dateText": "Jan 26, 2022",
     "datetime": "2022-01-26T14:21:31+00:00",
     "_date": "2022-01-26T14:21:31.000Z"
-  },
-  {
-    "title": "Facebook’s plan to offer free internet in developing countries ended up costing users, WSJ reports",
-    "link": "https://www.theverge.com/2022/1/25/22900924/facebooks-free-internet-less-developed-costing-users-wsj",
-    "dateText": "Jan 25, 2022",
-    "datetime": "2022-01-25T20:00:45+00:00",
-    "_date": "2022-01-25T20:00:45.000Z"
   },
   {
     "title": "Plaid’s new privacy controls let you manage your financial data from a single hub",
@@ -511,13 +518,6 @@
     "_date": "2022-01-06T18:58:16.000Z"
   },
   {
-    "title": "Do you need a robot vacuum that can clean its own bottom?",
-    "link": "https://www.theverge.com/22870187/smart-home-gadget-ces-2022-roundup-samsung-wemo-eve",
-    "dateText": "Jan 6, 2022",
-    "datetime": "2022-01-06T17:50:25+00:00",
-    "_date": "2022-01-06T17:50:25.000Z"
-  },
-  {
     "title": "HP adds two new Dragonfly models to its business lineup",
     "link": "https://www.theverge.com/2022/1/4/22866703/hp-elite-dragonfly-g3-chromebook-enterprise-laptops",
     "dateText": "Jan 6, 2022",
@@ -565,6 +565,13 @@
     "dateText": "Jan 5, 2022",
     "datetime": "2022-01-05T15:23:53+00:00",
     "_date": "2022-01-05T15:23:53.000Z"
+  },
+  {
+    "title": "Samsung’s tiny Freestyle projector is fun so get over it",
+    "link": "https://www.theverge.com/2022/1/4/22865673/samsung-freestyle-portable-lifestyle-projector-not-olds",
+    "dateText": "Jan 5, 2022",
+    "datetime": "2022-01-05T02:30:00+00:00",
+    "_date": "2022-01-05T02:30:00.000Z"
   },
   {
     "title": "Sony is joining the Mini LED TV bandwagon in 2022",
