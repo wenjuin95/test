@@ -1,5 +1,12 @@
 [
   {
+    "title": "Netflix won the streaming wars, and we’re all about to pay for it",
+    "link": "https://www.theverge.com/2025/1/26/24351302/netflix-price-increase-streaming-wars",
+    "dateText": "Jan 26, 2025",
+    "datetime": "2025-01-26T14:00:00+00:00",
+    "_date": "2025-01-26T14:00:00.000Z"
+  },
+  {
     "title": "Crypto collapse: FTX’s fall is one piece of a long, cold, contagious crypto winter",
     "link": "https://www.theverge.com/2022/11/10/23450169/crypto-winter-ftx-binance-celsius-bitcoin",
     "dateText": "Nov 20, 2024",
@@ -40,6 +47,13 @@
     "dateText": "Jan 31, 2023",
     "datetime": "2023-01-31T01:28:06+00:00",
     "_date": "2023-01-31T01:28:06.000Z"
+  },
+  {
+    "title": "Wednesday’s top tech news: Meta unbans Trump",
+    "link": "https://www.theverge.com/2023/1/25/23570612/january-25-2023-tech-news-liveblog",
+    "dateText": "Jan 27, 2023",
+    "datetime": "2023-01-27T01:48:50+00:00",
+    "_date": "2023-01-27T01:48:50.000Z"
   },
   {
     "title": "37 million accounts hacked in latest T-Mobile data breach",
@@ -96,6 +110,13 @@
     "dateText": "Nov 15, 2022",
     "datetime": "2022-11-15T15:00:00+00:00",
     "_date": "2022-11-15T15:00:00.000Z"
+  },
+  {
+    "title": "Twitter is planning to start charging soon for verification",
+    "link": "https://www.theverge.com/2022/10/30/23431931/twitter-paid-verification-elon-musk-blue-monthly-subscription",
+    "dateText": "Oct 31, 2022",
+    "datetime": "2022-10-31T00:52:51+00:00",
+    "_date": "2022-10-31T00:52:51.000Z"
   },
   {
     "title": "Google is shutting down Stadia",
@@ -161,6 +182,13 @@
     "_date": "2022-01-22T01:41:23.000Z"
   },
   {
+    "title": "Peloton’s woes continue as it temporarily halts bike, treadmill production",
+    "link": "https://www.theverge.com/2022/1/20/22893462/peloton-bikes-treadmills-production-connected-fitness",
+    "dateText": "Jan 20, 2022",
+    "datetime": "2022-01-20T19:49:24+00:00",
+    "_date": "2022-01-20T19:49:24.000Z"
+  },
+  {
     "title": "Microsoft to acquire Activision Blizzard for $68.7 billion",
     "link": "https://www.theverge.com/2022/1/18/22889258/microsoft-activision-blizzard-xbox-acquisition-call-of-duty-overwatch",
     "dateText": "Jan 18, 2022",
@@ -196,11 +224,32 @@
     "_date": "2022-01-10T23:59:39.000Z"
   },
   {
+    "title": "Open source developer corrupts widely-used libraries, affecting tons of projects",
+    "link": "https://www.theverge.com/2022/1/9/22874949/developer-corrupts-open-source-libraries-projects-affected",
+    "dateText": "Jan 9, 2022",
+    "datetime": "2022-01-09T20:58:41+00:00",
+    "_date": "2022-01-09T20:58:41.000Z"
+  },
+  {
+    "title": "Discord hacking is the newest threat for NFT buyers",
+    "link": "https://www.theverge.com/2022/1/7/22870912/nft-communities-boom-discord-hackers-cryptocurrency-webhooks",
+    "dateText": "Jan 7, 2022",
+    "datetime": "2022-01-07T13:00:00+00:00",
+    "_date": "2022-01-07T13:00:00.000Z"
+  },
+  {
     "title": "Mozilla pauses accepting crypto donations following backlash",
     "link": "https://www.theverge.com/2022/1/6/22870787/mozilla-pauses-crypto-donations-backlash-jwz",
     "dateText": "Jan 6, 2022",
     "datetime": "2022-01-06T21:28:26+00:00",
     "_date": "2022-01-06T21:28:26.000Z"
+  },
+  {
+    "title": "NPR’s losing top talent — everyone has a theory why",
+    "link": "https://www.theverge.com/2022/1/6/22870634/npr-audie-cornish-all-things-considered-host-departures",
+    "dateText": "Jan 6, 2022",
+    "datetime": "2022-01-06T18:58:16+00:00",
+    "_date": "2022-01-06T18:58:16.000Z"
   },
   {
     "title": "Drone carrying a defibrillator saves its first cardiac arrest patient in Sweden",
@@ -210,11 +259,25 @@
     "_date": "2022-01-05T20:40:47.000Z"
   },
   {
+    "title": "The Motorola MA1 is a dongle for wireless Android Auto",
+    "link": "https://www.theverge.com/2022/1/5/22865297/motorola-ma1-wireless-android-auto-dongle-bluetooth-car-head-unit",
+    "dateText": "Jan 5, 2022",
+    "datetime": "2022-01-05T18:00:00+00:00",
+    "_date": "2022-01-05T18:00:00.000Z"
+  },
+  {
     "title": "Ubisoft is bringing its subscription service to Xbox",
     "link": "https://www.theverge.com/2022/1/5/22868704/ubisoft-plus-xbox-launch-rainbow-six-extraction-xbox-game-pass",
     "dateText": "Jan 5, 2022",
     "datetime": "2022-01-05T17:31:40+00:00",
     "_date": "2022-01-05T17:31:40.000Z"
+  },
+  {
+    "title": "Meta reportedly canceled a 300-person VR / AR operating system project",
+    "link": "https://www.theverge.com/2022/1/5/22868388/meta-xros-vr-ar-os-development-canceled",
+    "dateText": "Jan 5, 2022",
+    "datetime": "2022-01-05T15:23:53+00:00",
+    "_date": "2022-01-05T15:23:53.000Z"
   },
   {
     "title": "Sony is joining the Mini LED TV bandwagon in 2022",
