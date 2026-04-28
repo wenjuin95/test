@@ -21,13 +21,6 @@
     "_date": "2026-02-23T15:54:06.000Z"
   },
   {
-    "title": "All the news about EV charging in the US",
-    "link": "https://www.theverge.com/23758095/electric-vehicle-charging-news-nacs-ccs-tesla-supercharger-us-infrastructure",
-    "dateText": "Feb 23",
-    "datetime": "2026-02-23T15:54:06+00:00",
-    "_date": "2026-02-23T15:54:06.000Z"
-  },
-  {
     "title": "Here are the best Kindle deals right now",
     "link": "https://www.theverge.com/21539047/best-amazon-kindle-deals",
     "dateText": "Jan 21",
@@ -75,6 +68,13 @@
     "dateText": "Jan 21, 2025",
     "datetime": "2025-01-21T21:13:37+00:00",
     "_date": "2025-01-21T21:13:37.000Z"
+  },
+  {
+    "title": "Is Sleep’s Dopesmoker still the heaviest album of all time?",
+    "link": "https://www.theverge.com/2025/1/1/24333190/heavier-than-dopesmoker",
+    "dateText": "Jan 1, 2025",
+    "datetime": "2025-01-01T13:00:00+00:00",
+    "_date": "2025-01-01T13:00:00.000Z"
   },
   {
     "title": "Is Sleep’s Dopesmoker still the heaviest album of all time?",
@@ -231,6 +231,13 @@
     "_date": "2023-01-14T04:27:07.000Z"
   },
   {
+    "title": "Meta sues company using fake Facebook accounts to scrape data",
+    "link": "https://www.theverge.com/2023/1/13/23553332/meta-facebook-instagram-voyager-labs-data-privacy-sue",
+    "dateText": "Jan 13, 2023",
+    "datetime": "2023-01-13T13:11:08+00:00",
+    "_date": "2023-01-13T13:11:08.000Z"
+  },
+  {
     "title": "Thursday’s top tech news: an Apple ecosystem for all",
     "link": "https://www.theverge.com/2023/1/12/23551589/january-12-2023-tech-news-liveblog",
     "dateText": "Jan 12, 2023",
@@ -292,13 +299,6 @@
     "dateText": "Nov 15, 2022",
     "datetime": "2022-11-15T14:41:25+00:00",
     "_date": "2022-11-15T14:41:25.000Z"
-  },
-  {
-    "title": "Elon Musk is putting Twitter at risk of massive fines, warns employees",
-    "link": "https://www.theverge.com/2022/11/10/23451198/twitter-ftc-elon-musk-lawyer-changes-fine-warning",
-    "dateText": "Nov 10, 2022",
-    "datetime": "2022-11-10T16:52:06+00:00",
-    "_date": "2022-11-10T16:52:06.000Z"
   },
   {
     "title": "Twitter is planning to start charging soon for verification",
@@ -406,18 +406,18 @@
     "_date": "2022-01-26T22:36:28.000Z"
   },
   {
-    "title": "Apple creates personal safety guide as AirTag concerns mount",
-    "link": "https://www.theverge.com/2022/1/26/22903005/apple-airtags-personal-safety-hub",
-    "dateText": "Jan 26, 2022",
-    "datetime": "2022-01-26T20:37:17+00:00",
-    "_date": "2022-01-26T20:37:17.000Z"
-  },
-  {
     "title": "Windows 11 is getting Android apps, taskbar improvements, and more next month",
     "link": "https://www.theverge.com/2022/1/26/22902477/microsoft-windows-11-update-android-apps-preview-taskbar-notepad-media-player",
     "dateText": "Jan 26, 2022",
     "datetime": "2022-01-26T14:21:31+00:00",
     "_date": "2022-01-26T14:21:31.000Z"
+  },
+  {
+    "title": "Facebook’s plan to offer free internet in developing countries ended up costing users, WSJ reports",
+    "link": "https://www.theverge.com/2022/1/25/22900924/facebooks-free-internet-less-developed-costing-users-wsj",
+    "dateText": "Jan 25, 2022",
+    "datetime": "2022-01-25T20:00:45+00:00",
+    "_date": "2022-01-25T20:00:45.000Z"
   },
   {
     "title": "Facebook’s plan to offer free internet in developing countries ended up costing users, WSJ reports",
@@ -565,13 +565,6 @@
     "dateText": "Jan 5, 2022",
     "datetime": "2022-01-05T17:31:40+00:00",
     "_date": "2022-01-05T17:31:40.000Z"
-  },
-  {
-    "title": "Meta reportedly canceled a 300-person VR / AR operating system project",
-    "link": "https://www.theverge.com/2022/1/5/22868388/meta-xros-vr-ar-os-development-canceled",
-    "dateText": "Jan 5, 2022",
-    "datetime": "2022-01-05T15:23:53+00:00",
-    "_date": "2022-01-05T15:23:53.000Z"
   },
   {
     "title": "Samsung’s tiny Freestyle projector is fun so get over it",
