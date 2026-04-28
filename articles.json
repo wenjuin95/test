@@ -63,13 +63,6 @@
     "_date": "2025-01-26T14:00:00.000Z"
   },
   {
-    "title": "Netflix is raising prices again, as the standard plan goes up to $17.99",
-    "link": "https://www.theverge.com/2025/1/21/24348682/netflix-price-increase-earnings-q4-2024",
-    "dateText": "Jan 21, 2025",
-    "datetime": "2025-01-21T21:13:37+00:00",
-    "_date": "2025-01-21T21:13:37.000Z"
-  },
-  {
     "title": "Is Sleep’s Dopesmoker still the heaviest album of all time?",
     "link": "https://www.theverge.com/2025/1/1/24333190/heavier-than-dopesmoker",
     "dateText": "Jan 1, 2025",
@@ -238,6 +231,13 @@
     "_date": "2023-01-13T13:11:08.000Z"
   },
   {
+    "title": "Meta sues company using fake Facebook accounts to scrape data",
+    "link": "https://www.theverge.com/2023/1/13/23553332/meta-facebook-instagram-voyager-labs-data-privacy-sue",
+    "dateText": "Jan 13, 2023",
+    "datetime": "2023-01-13T13:11:08+00:00",
+    "_date": "2023-01-13T13:11:08.000Z"
+  },
+  {
     "title": "Thursday’s top tech news: an Apple ecosystem for all",
     "link": "https://www.theverge.com/2023/1/12/23551589/january-12-2023-tech-news-liveblog",
     "dateText": "Jan 12, 2023",
@@ -252,11 +252,11 @@
     "_date": "2023-01-11T01:47:54.000Z"
   },
   {
-    "title": "Tuesday’s top tech news: CES kicks off 2023 with a bang",
-    "link": "https://www.theverge.com/2023/1/3/23536793/january-3-2023-tech-news-liveblog",
-    "dateText": "Jan 9, 2023",
-    "datetime": "2023-01-09T15:58:16+00:00",
-    "_date": "2023-01-09T15:58:16.000Z"
+    "title": "Tuesday’s top tech news: the next step in Apple’s chip plans",
+    "link": "https://www.theverge.com/2023/1/10/23547974/january-10-2023-tech-news-liveblog",
+    "dateText": "Jan 11, 2023",
+    "datetime": "2023-01-11T01:47:54+00:00",
+    "_date": "2023-01-11T01:47:54.000Z"
   },
   {
     "title": "Top AI conference bans use of ChatGPT and AI language tools to write academic papers",
