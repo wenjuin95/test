@@ -21,25 +21,11 @@
     "_date": "2026-02-23T15:54:06.000Z"
   },
   {
-    "title": "All the news about EV charging in the US",
-    "link": "https://www.theverge.com/23758095/electric-vehicle-charging-news-nacs-ccs-tesla-supercharger-us-infrastructure",
-    "dateText": "Feb 23",
-    "datetime": "2026-02-23T15:54:06+00:00",
-    "_date": "2026-02-23T15:54:06.000Z"
-  },
-  {
     "title": "Here are the best Kindle deals right now",
     "link": "https://www.theverge.com/21539047/best-amazon-kindle-deals",
     "dateText": "Jan 21",
     "datetime": "2026-01-21T23:00:00+00:00",
     "_date": "2026-01-21T23:00:00.000Z"
-  },
-  {
-    "title": "Gemini is winning",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner",
-    "dateText": "Jan 14",
-    "datetime": "2026-01-14T18:16:39+00:00",
-    "_date": "2026-01-14T18:16:39.000Z"
   },
   {
     "title": "Gemini is winning",
@@ -82,6 +68,13 @@
     "dateText": "Jan 21, 2025",
     "datetime": "2025-01-21T21:13:37+00:00",
     "_date": "2025-01-21T21:13:37.000Z"
+  },
+  {
+    "title": "Is Sleep’s Dopesmoker still the heaviest album of all time?",
+    "link": "https://www.theverge.com/2025/1/1/24333190/heavier-than-dopesmoker",
+    "dateText": "Jan 1, 2025",
+    "datetime": "2025-01-01T13:00:00+00:00",
+    "_date": "2025-01-01T13:00:00.000Z"
   },
   {
     "title": "The fight to unionize Amazon’s warehouses",
@@ -166,13 +159,6 @@
     "dateText": "Jan 26, 2023",
     "datetime": "2023-01-26T15:45:39+00:00",
     "_date": "2023-01-26T15:45:39.000Z"
-  },
-  {
-    "title": "Tuesday’s top tech news: Lightyear’s buzz fizzles",
-    "link": "https://www.theverge.com/2023/1/24/23568888/january-24-2023-tech-news-liveblog",
-    "dateText": "Jan 25, 2023",
-    "datetime": "2023-01-25T19:10:00+00:00",
-    "_date": "2023-01-25T19:10:00.000Z"
   },
   {
     "title": "Microsoft Q2 2023: Windows, devices, and Xbox down as cloud holds strong",
@@ -371,6 +357,13 @@
     "_date": "2022-03-16T17:22:17.000Z"
   },
   {
+    "title": "NASA and SpaceX say lagging parachutes on Dragon capsule are not a problem",
+    "link": "https://www.theverge.com/2022/2/4/22914726/spacex-crew-dragon-lagging-parachutes-nasa-landing",
+    "dateText": "Feb 4, 2022",
+    "datetime": "2022-02-04T19:57:41+00:00",
+    "_date": "2022-02-04T19:57:41.000Z"
+  },
+  {
     "title": "Public accountants are deducting themselves from their jobs",
     "link": "https://www.theverge.com/2022/1/31/22903016/public-accountants-big-quit-memes-reddit",
     "dateText": "Jan 31, 2022",
@@ -483,6 +476,13 @@
     "_date": "2022-01-11T18:40:15.000Z"
   },
   {
+    "title": "Spotify shuts down its namesake podcast studio",
+    "link": "https://www.theverge.com/2022/1/11/22877242/spotify-studios-four-lay-off-original-podcast",
+    "dateText": "Jan 11, 2022",
+    "datetime": "2022-01-11T13:00:00+00:00",
+    "_date": "2022-01-11T13:00:00.000Z"
+  },
+  {
     "title": "The Associated Press is starting its own NFT marketplace for photojournalism",
     "link": "https://www.theverge.com/2022/1/10/22876993/associated-press-ap-nft-marketplace-xooa-blockchain-photo-journalism-funding",
     "dateText": "Jan 10, 2022",
@@ -490,18 +490,18 @@
     "_date": "2022-01-10T23:59:39.000Z"
   },
   {
+    "title": "Open source developer corrupts widely-used libraries, affecting tons of projects",
+    "link": "https://www.theverge.com/2022/1/9/22874949/developer-corrupts-open-source-libraries-projects-affected",
+    "dateText": "Jan 9, 2022",
+    "datetime": "2022-01-09T20:58:41+00:00",
+    "_date": "2022-01-09T20:58:41.000Z"
+  },
+  {
     "title": "Discord hacking is the newest threat for NFT buyers",
     "link": "https://www.theverge.com/2022/1/7/22870912/nft-communities-boom-discord-hackers-cryptocurrency-webhooks",
     "dateText": "Jan 7, 2022",
     "datetime": "2022-01-07T13:00:00+00:00",
     "_date": "2022-01-07T13:00:00.000Z"
-  },
-  {
-    "title": "Mozilla pauses accepting crypto donations following backlash",
-    "link": "https://www.theverge.com/2022/1/6/22870787/mozilla-pauses-crypto-donations-backlash-jwz",
-    "dateText": "Jan 6, 2022",
-    "datetime": "2022-01-06T21:28:26+00:00",
-    "_date": "2022-01-06T21:28:26.000Z"
   },
   {
     "title": "Mozilla pauses accepting crypto donations following backlash",
