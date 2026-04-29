@@ -14,18 +14,18 @@
     "_date": "2026-03-14T18:48:56.000Z"
   },
   {
-    "title": "All the news about EV charging in the US",
-    "link": "https://www.theverge.com/23758095/electric-vehicle-charging-news-nacs-ccs-tesla-supercharger-us-infrastructure",
-    "dateText": "Feb 23",
-    "datetime": "2026-02-23T15:54:06+00:00",
-    "_date": "2026-02-23T15:54:06.000Z"
-  },
-  {
     "title": "Here are the best Kindle deals right now",
     "link": "https://www.theverge.com/21539047/best-amazon-kindle-deals",
     "dateText": "Jan 21",
     "datetime": "2026-01-21T23:00:00+00:00",
     "_date": "2026-01-21T23:00:00.000Z"
+  },
+  {
+    "title": "Gemini is winning",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner",
+    "dateText": "Jan 14",
+    "datetime": "2026-01-14T18:16:39+00:00",
+    "_date": "2026-01-14T18:16:39.000Z"
   },
   {
     "title": "Gemini is winning",
@@ -63,6 +63,13 @@
     "_date": "2025-01-26T14:00:00.000Z"
   },
   {
+    "title": "Netflix is raising prices again, as the standard plan goes up to $17.99",
+    "link": "https://www.theverge.com/2025/1/21/24348682/netflix-price-increase-earnings-q4-2024",
+    "dateText": "Jan 21, 2025",
+    "datetime": "2025-01-21T21:13:37+00:00",
+    "_date": "2025-01-21T21:13:37.000Z"
+  },
+  {
     "title": "Is Sleep’s Dopesmoker still the heaviest album of all time?",
     "link": "https://www.theverge.com/2025/1/1/24333190/heavier-than-dopesmoker",
     "dateText": "Jan 1, 2025",
@@ -89,6 +96,13 @@
     "dateText": "Feb 15, 2024",
     "datetime": "2024-02-15T20:00:00+00:00",
     "_date": "2024-02-15T20:00:00.000Z"
+  },
+  {
+    "title": "Microsoft lays off 1,900 Activision Blizzard and Xbox employees",
+    "link": "https://www.theverge.com/2024/1/25/24049050/microsoft-activision-blizzard-layoffs",
+    "dateText": "Jan 25, 2024",
+    "datetime": "2024-01-25T14:16:49+00:00",
+    "_date": "2024-01-25T14:16:49.000Z"
   },
   {
     "title": "Microsoft lays off 1,900 Activision Blizzard and Xbox employees",
@@ -217,13 +231,6 @@
     "_date": "2023-01-14T04:27:07.000Z"
   },
   {
-    "title": "Meta sues company using fake Facebook accounts to scrape data",
-    "link": "https://www.theverge.com/2023/1/13/23553332/meta-facebook-instagram-voyager-labs-data-privacy-sue",
-    "dateText": "Jan 13, 2023",
-    "datetime": "2023-01-13T13:11:08+00:00",
-    "_date": "2023-01-13T13:11:08.000Z"
-  },
-  {
     "title": "Thursday’s top tech news: an Apple ecosystem for all",
     "link": "https://www.theverge.com/2023/1/12/23551589/january-12-2023-tech-news-liveblog",
     "dateText": "Jan 12, 2023",
@@ -280,18 +287,18 @@
     "_date": "2022-11-15T15:00:00.000Z"
   },
   {
+    "title": "The scary truth about AI copyright is nobody knows what will happen next",
+    "link": "https://www.theverge.com/23444685/generative-ai-copyright-infringement-legal-fair-use-training-data",
+    "dateText": "Nov 15, 2022",
+    "datetime": "2022-11-15T15:00:00+00:00",
+    "_date": "2022-11-15T15:00:00.000Z"
+  },
+  {
     "title": "Phil Spencer really wants you to know that native Call of Duty will stay on PlayStation",
     "link": "https://www.theverge.com/23459189/phil-spencer-microsoft-activision-call-of-duty-xbox-playstation-candy-crush-apple-fortnite-vr",
     "dateText": "Nov 15, 2022",
     "datetime": "2022-11-15T14:41:25+00:00",
     "_date": "2022-11-15T14:41:25.000Z"
-  },
-  {
-    "title": "Elon Musk is putting Twitter at risk of massive fines, warns employees",
-    "link": "https://www.theverge.com/2022/11/10/23451198/twitter-ftc-elon-musk-lawyer-changes-fine-warning",
-    "dateText": "Nov 10, 2022",
-    "datetime": "2022-11-10T16:52:06+00:00",
-    "_date": "2022-11-10T16:52:06.000Z"
   },
   {
     "title": "Twitter is planning to start charging soon for verification",
@@ -406,13 +413,6 @@
     "_date": "2022-01-26T20:37:17.000Z"
   },
   {
-    "title": "Apple creates personal safety guide as AirTag concerns mount",
-    "link": "https://www.theverge.com/2022/1/26/22903005/apple-airtags-personal-safety-hub",
-    "dateText": "Jan 26, 2022",
-    "datetime": "2022-01-26T20:37:17+00:00",
-    "_date": "2022-01-26T20:37:17.000Z"
-  },
-  {
     "title": "Windows 11 is getting Android apps, taskbar improvements, and more next month",
     "link": "https://www.theverge.com/2022/1/26/22902477/microsoft-windows-11-update-android-apps-preview-taskbar-notepad-media-player",
     "dateText": "Jan 26, 2022",
@@ -420,18 +420,18 @@
     "_date": "2022-01-26T14:21:31.000Z"
   },
   {
-    "title": "Facebook’s plan to offer free internet in developing countries ended up costing users, WSJ reports",
-    "link": "https://www.theverge.com/2022/1/25/22900924/facebooks-free-internet-less-developed-costing-users-wsj",
-    "dateText": "Jan 25, 2022",
-    "datetime": "2022-01-25T20:00:45+00:00",
-    "_date": "2022-01-25T20:00:45.000Z"
-  },
-  {
     "title": "Plaid’s new privacy controls let you manage your financial data from a single hub",
     "link": "https://www.theverge.com/2022/1/25/22899801/plaid-privacy-portal-manage-your-financial",
     "dateText": "Jan 25, 2022",
     "datetime": "2022-01-25T13:00:00+00:00",
     "_date": "2022-01-25T13:00:00.000Z"
+  },
+  {
+    "title": "Meta has built an AI supercomputer it says will be world’s fastest by end of 2022",
+    "link": "https://www.theverge.com/2022/1/24/22898651/meta-artificial-intelligence-ai-supercomputer-rsc-2022",
+    "dateText": "Jan 24, 2022",
+    "datetime": "2022-01-24T17:00:00+00:00",
+    "_date": "2022-01-24T17:00:00.000Z"
   },
   {
     "title": "Digital cash gets a look from the Fed",
@@ -497,6 +497,20 @@
     "_date": "2022-01-10T23:59:39.000Z"
   },
   {
+    "title": "Open source developer corrupts widely-used libraries, affecting tons of projects",
+    "link": "https://www.theverge.com/2022/1/9/22874949/developer-corrupts-open-source-libraries-projects-affected",
+    "dateText": "Jan 9, 2022",
+    "datetime": "2022-01-09T20:58:41+00:00",
+    "_date": "2022-01-09T20:58:41.000Z"
+  },
+  {
+    "title": "Open source developer corrupts widely-used libraries, affecting tons of projects",
+    "link": "https://www.theverge.com/2022/1/9/22874949/developer-corrupts-open-source-libraries-projects-affected",
+    "dateText": "Jan 9, 2022",
+    "datetime": "2022-01-09T20:58:41+00:00",
+    "_date": "2022-01-09T20:58:41.000Z"
+  },
+  {
     "title": "Discord hacking is the newest threat for NFT buyers",
     "link": "https://www.theverge.com/2022/1/7/22870912/nft-communities-boom-discord-hackers-cryptocurrency-webhooks",
     "dateText": "Jan 7, 2022",
@@ -532,6 +546,13 @@
     "_date": "2022-01-06T16:23:02.000Z"
   },
   {
+    "title": "HP adds two new Dragonfly models to its business lineup",
+    "link": "https://www.theverge.com/2022/1/4/22866703/hp-elite-dragonfly-g3-chromebook-enterprise-laptops",
+    "dateText": "Jan 6, 2022",
+    "datetime": "2022-01-06T16:23:02+00:00",
+    "_date": "2022-01-06T16:23:02.000Z"
+  },
+  {
     "title": "Eufy’s new doorbell has two cameras to monitor visitors and packages",
     "link": "https://www.theverge.com/2022/1/4/22865803/eufy-video-doorbell-dual-garage-control-cam-specs-release-date-price",
     "dateText": "Jan 6, 2022",
@@ -546,32 +567,11 @@
     "_date": "2022-01-05T20:40:47.000Z"
   },
   {
-    "title": "The Motorola MA1 is a dongle for wireless Android Auto",
-    "link": "https://www.theverge.com/2022/1/5/22865297/motorola-ma1-wireless-android-auto-dongle-bluetooth-car-head-unit",
-    "dateText": "Jan 5, 2022",
-    "datetime": "2022-01-05T18:00:00+00:00",
-    "_date": "2022-01-05T18:00:00.000Z"
-  },
-  {
     "title": "Ubisoft is bringing its subscription service to Xbox",
     "link": "https://www.theverge.com/2022/1/5/22868704/ubisoft-plus-xbox-launch-rainbow-six-extraction-xbox-game-pass",
     "dateText": "Jan 5, 2022",
     "datetime": "2022-01-05T17:31:40+00:00",
     "_date": "2022-01-05T17:31:40.000Z"
-  },
-  {
-    "title": "Meta reportedly canceled a 300-person VR / AR operating system project",
-    "link": "https://www.theverge.com/2022/1/5/22868388/meta-xros-vr-ar-os-development-canceled",
-    "dateText": "Jan 5, 2022",
-    "datetime": "2022-01-05T15:23:53+00:00",
-    "_date": "2022-01-05T15:23:53.000Z"
-  },
-  {
-    "title": "Meta reportedly canceled a 300-person VR / AR operating system project",
-    "link": "https://www.theverge.com/2022/1/5/22868388/meta-xros-vr-ar-os-development-canceled",
-    "dateText": "Jan 5, 2022",
-    "datetime": "2022-01-05T15:23:53+00:00",
-    "_date": "2022-01-05T15:23:53.000Z"
   },
   {
     "title": "Samsung’s tiny Freestyle projector is fun so get over it",
