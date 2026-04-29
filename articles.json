@@ -63,13 +63,6 @@
     "_date": "2025-01-26T14:00:00.000Z"
   },
   {
-    "title": "Netflix is raising prices again, as the standard plan goes up to $17.99",
-    "link": "https://www.theverge.com/2025/1/21/24348682/netflix-price-increase-earnings-q4-2024",
-    "dateText": "Jan 21, 2025",
-    "datetime": "2025-01-21T21:13:37+00:00",
-    "_date": "2025-01-21T21:13:37.000Z"
-  },
-  {
     "title": "Is Sleep’s Dopesmoker still the heaviest album of all time?",
     "link": "https://www.theverge.com/2025/1/1/24333190/heavier-than-dopesmoker",
     "dateText": "Jan 1, 2025",
@@ -413,6 +406,13 @@
     "_date": "2022-01-26T20:37:17.000Z"
   },
   {
+    "title": "Apple creates personal safety guide as AirTag concerns mount",
+    "link": "https://www.theverge.com/2022/1/26/22903005/apple-airtags-personal-safety-hub",
+    "dateText": "Jan 26, 2022",
+    "datetime": "2022-01-26T20:37:17+00:00",
+    "_date": "2022-01-26T20:37:17.000Z"
+  },
+  {
     "title": "Windows 11 is getting Android apps, taskbar improvements, and more next month",
     "link": "https://www.theverge.com/2022/1/26/22902477/microsoft-windows-11-update-android-apps-preview-taskbar-notepad-media-player",
     "dateText": "Jan 26, 2022",
@@ -490,13 +490,6 @@
     "_date": "2022-01-11T13:00:00.000Z"
   },
   {
-    "title": "Spotify shuts down its namesake podcast studio",
-    "link": "https://www.theverge.com/2022/1/11/22877242/spotify-studios-four-lay-off-original-podcast",
-    "dateText": "Jan 11, 2022",
-    "datetime": "2022-01-11T13:00:00+00:00",
-    "_date": "2022-01-11T13:00:00.000Z"
-  },
-  {
     "title": "The Associated Press is starting its own NFT marketplace for photojournalism",
     "link": "https://www.theverge.com/2022/1/10/22876993/associated-press-ap-nft-marketplace-xooa-blockchain-photo-journalism-funding",
     "dateText": "Jan 10, 2022",
@@ -504,18 +497,18 @@
     "_date": "2022-01-10T23:59:39.000Z"
   },
   {
-    "title": "Open source developer corrupts widely-used libraries, affecting tons of projects",
-    "link": "https://www.theverge.com/2022/1/9/22874949/developer-corrupts-open-source-libraries-projects-affected",
-    "dateText": "Jan 9, 2022",
-    "datetime": "2022-01-09T20:58:41+00:00",
-    "_date": "2022-01-09T20:58:41.000Z"
-  },
-  {
     "title": "Discord hacking is the newest threat for NFT buyers",
     "link": "https://www.theverge.com/2022/1/7/22870912/nft-communities-boom-discord-hackers-cryptocurrency-webhooks",
     "dateText": "Jan 7, 2022",
     "datetime": "2022-01-07T13:00:00+00:00",
     "_date": "2022-01-07T13:00:00.000Z"
+  },
+  {
+    "title": "Mozilla pauses accepting crypto donations following backlash",
+    "link": "https://www.theverge.com/2022/1/6/22870787/mozilla-pauses-crypto-donations-backlash-jwz",
+    "dateText": "Jan 6, 2022",
+    "datetime": "2022-01-06T21:28:26+00:00",
+    "_date": "2022-01-06T21:28:26.000Z"
   },
   {
     "title": "NPR’s losing top talent — everyone has a theory why",
@@ -565,6 +558,13 @@
     "dateText": "Jan 5, 2022",
     "datetime": "2022-01-05T17:31:40+00:00",
     "_date": "2022-01-05T17:31:40.000Z"
+  },
+  {
+    "title": "Meta reportedly canceled a 300-person VR / AR operating system project",
+    "link": "https://www.theverge.com/2022/1/5/22868388/meta-xros-vr-ar-os-development-canceled",
+    "dateText": "Jan 5, 2022",
+    "datetime": "2022-01-05T15:23:53+00:00",
+    "_date": "2022-01-05T15:23:53.000Z"
   },
   {
     "title": "Meta reportedly canceled a 300-person VR / AR operating system project",
